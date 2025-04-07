@@ -98,7 +98,7 @@
             // rdbRespuesta2
             // 
             this.rdbRespuesta2.AutoSize = true;
-            this.rdbRespuesta2.Location = new System.Drawing.Point(193, 148);
+            this.rdbRespuesta2.Location = new System.Drawing.Point(368, 148);
             this.rdbRespuesta2.Name = "rdbRespuesta2";
             this.rdbRespuesta2.Size = new System.Drawing.Size(85, 17);
             this.rdbRespuesta2.TabIndex = 5;
@@ -122,7 +122,7 @@
             // rdbRespuesta4
             // 
             this.rdbRespuesta4.AutoSize = true;
-            this.rdbRespuesta4.Location = new System.Drawing.Point(193, 195);
+            this.rdbRespuesta4.Location = new System.Drawing.Point(368, 195);
             this.rdbRespuesta4.Name = "rdbRespuesta4";
             this.rdbRespuesta4.Size = new System.Drawing.Size(85, 17);
             this.rdbRespuesta4.TabIndex = 7;
@@ -134,7 +134,7 @@
             // lblTiempo
             // 
             this.lblTiempo.AutoSize = true;
-            this.lblTiempo.Location = new System.Drawing.Point(471, 101);
+            this.lblTiempo.Location = new System.Drawing.Point(60, 338);
             this.lblTiempo.Name = "lblTiempo";
             this.lblTiempo.Size = new System.Drawing.Size(35, 13);
             this.lblTiempo.TabIndex = 9;
@@ -163,7 +163,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(927, 450);
             this.Controls.Add(this.lblPuntaje);
             this.Controls.Add(this.btnSiguiente);
             this.Controls.Add(this.lblTiempo);

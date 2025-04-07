@@ -3,34 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\juegoquiz\\juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\clases\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\clases\\preguntascategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\preguntascategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\recursos\\ciencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\ciencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\preguntas\\ciencia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\preguntas\\ciencia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\clases\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\recursos\\transformadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\transformadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\recursos\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,15 +11,47 @@
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\culturageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\recursos\\ciencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\ciencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\clases\\preguntascategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\preguntascategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\juegoquiz\\juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\juegoquiz\\juegoquiz\\formresultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\preguntas\\culturageneral.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\preguntas\\culturageneral.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\clases\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\clases\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\preguntas\\ciencia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\preguntas\\ciencia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\recursos\\transformadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\transformadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\formresultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\formresultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\hp\\onedrive - pascualbravo.edu.co\\herramientas ii\\juegoquiz\\juegoquiz\\formresultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\formresultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\formresultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\preguntas\\historia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\preguntas\\historia.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\juegoquiz\\preguntas\\culturageneral.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\preguntas\\culturageneral.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\bin\\Debug\\Preguntas\\CienciaTransformada.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,124 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Category.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Category.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Category.cs",
-              "RelativeToolTip": "JuegoQuiz\\Clases\\Category.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T03:24:26.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Ciencia.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\Ciencia.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\Ciencia.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\Ciencia.cs",
-              "RelativeToolTip": "JuegoQuiz\\Recursos\\Ciencia.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T04:15:33.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CulturaGeneral.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "RelativeToolTip": "JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCQAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T04:18:34.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Form1.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Form1.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Form1.cs",
-              "RelativeToolTip": "JuegoQuiz\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T05:30:15.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ciencia.json",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\Ciencia.json",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Preguntas\\Ciencia.json",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\Ciencia.json",
-              "RelativeToolTip": "JuegoQuiz\\Preguntas\\Ciencia.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T04:34:58.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pregunta.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Pregunta.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Pregunta.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Pregunta.cs",
-              "RelativeToolTip": "JuegoQuiz\\Clases\\Pregunta.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T03:19:39.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "PreguntasCategoria.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\PreguntasCategoria.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\PreguntasCategoria.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\PreguntasCategoria.cs",
               "RelativeToolTip": "JuegoQuiz\\Clases\\PreguntasCategoria.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIAxwB8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T06:42:43.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Historia.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\Historia.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\Historia.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\Historia.cs",
               "RelativeToolTip": "JuegoQuiz\\Recursos\\Historia.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBwAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T04:04:05.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TransformadorJSon.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "RelativeToolTip": "JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAewB4AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T05:21:37.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Form1.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Form1.cs",
@@ -235,19 +144,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ciencia.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\Ciencia.cs",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\Ciencia.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\Ciencia.cs",
+              "RelativeToolTip": "JuegoQuiz\\Recursos\\Ciencia.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:15:33.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CulturaGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\CulturaGeneral.cs",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\CulturaGeneral.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\CulturaGeneral.cs",
+              "RelativeToolTip": "JuegoQuiz\\Recursos\\CulturaGeneral.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:18:34.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CulturaGeneral.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\CulturaGeneral.json",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Preguntas\\CulturaGeneral.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\CulturaGeneral.json",
+              "RelativeToolTip": "JuegoQuiz\\Preguntas\\CulturaGeneral.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T05:43:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Form1.cs",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Form1.cs",
+              "RelativeToolTip": "JuegoQuiz\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:30:15.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pregunta.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Pregunta.cs",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Pregunta.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Pregunta.cs",
+              "RelativeToolTip": "JuegoQuiz\\Clases\\Pregunta.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:19:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ciencia.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\Ciencia.json",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Preguntas\\Ciencia.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\Ciencia.json",
+              "RelativeToolTip": "JuegoQuiz\\Preguntas\\Ciencia.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T04:34:58.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Category.cs",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Category.cs",
+              "RelativeToolTip": "JuegoQuiz\\Clases\\Category.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:24:26.843Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "TransformadorJSon.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\TransformadorJSon.cs",
+              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\TransformadorJSon.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Recursos\\TransformadorJSon.cs",
+              "RelativeToolTip": "JuegoQuiz\\Recursos\\TransformadorJSon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:21:37.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "FormResultadoFinal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\FormResultadoFinal.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\FormResultadoFinal.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\FormResultadoFinal.cs [Dise\u00F1o]",
               "RelativeToolTip": "JuegoQuiz\\FormResultadoFinal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T07:52:22.53Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-07T07:52:22.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FormResultadoFinal.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\FormResultadoFinal.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\FormResultadoFinal.cs",
@@ -255,12 +264,11 @@
               "RelativeToolTip": "JuegoQuiz\\FormResultadoFinal.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T07:52:24.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T07:52:24.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FactoryPreguntas.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Factory\\FactoryPreguntas.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Factory\\FactoryPreguntas.cs",
@@ -272,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Nivel.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\Nivel.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Nivel.cs",
@@ -280,12 +288,11 @@
               "RelativeToolTip": "JuegoQuiz\\Clases\\Nivel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T03:29:00.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T03:29:00.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FactoryJuego.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Clases\\FactoryJuego.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\FactoryJuego.cs",
@@ -297,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Historia.json",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\Historia.json",
               "RelativeDocumentMoniker": "JuegoQuiz\\Preguntas\\Historia.json",
@@ -330,18 +337,6 @@
               "ViewState": "AgIAAB4FAAAAAAAAAAAmwCkFAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-07T06:07:03.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CulturaGeneral.json",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\CulturaGeneral.json",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Preguntas\\CulturaGeneral.json",
-              "ToolTip": "C:\\Users\\hp\\OneDrive - pascualbravo.edu.co\\Herramientas II\\JuegoQuiz\\JuegoQuiz\\Preguntas\\CulturaGeneral.json",
-              "RelativeToolTip": "JuegoQuiz\\Preguntas\\CulturaGeneral.json",
-              "ViewState": "AgIAAB4FAAAAAAAAAAAmwCkFAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T05:43:02.242Z"
             },
             {
               "$type": "Document",

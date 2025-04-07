@@ -16,28 +16,33 @@ namespace JuegoQuiz.Recursos
             // acá estoy diciendo la direcci+on que se va a guardar en la variable filePath
             private string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Preguntas", "Ciencia.json"); // Ruta del archivo de trabajadores
 
-            public IList<PreguntasCiencia> ObtenerPreguntasCiencia()
+            public IList<PreguntasCiencia> ObtenerPreguntasCiencia(string dificultadSeleccionada)
             {//Verifica si el archivo existe
             try
             {
                 if (!File.Exists(filePath))
-                {
                     throw new FileNotFoundException($"El archivo {filePath} no se encontró.");
-                }
 
                 string jsonData = File.ReadAllText(filePath);
-
-                // ✅ Esta es la forma correcta para tu estructura actual
                 var jsonCiencia = JsonSerializer.Deserialize<Dictionary<string, List<PreguntasCiencia>>>(jsonData);
 
-                // Aquí puedes acceder a las preguntas directamente
-                var listaPreguntas = jsonCiencia["Ciencia"];
+                var preguntasFiltradas = jsonCiencia["Ciencia"]
+                    .Where(p => p.Dificultad.ToLower() == dificultadSeleccionada.ToLower())
+                    .OrderBy(_ => Guid.NewGuid()) // 🔀 Aleatorizar
+                    .Take(15)                     // 📦 Tomar solo 15 aleatorias
+                    .ToList();
 
-                return listaPreguntas;
+                // 👉 Aquí regeneramos la categoría con los valores correctos
+                foreach (var pregunta in preguntasFiltradas)
+                {
+                    pregunta.Categoria = new Category(dificultadSeleccionada);
+                }
+
+                return preguntasFiltradas;
             }
             catch (Exception ex)
             {
-                throw new ArgumentException("Ocurrió un error: " + ex);
+                throw new ArgumentException("Ocurrió un error: " + ex.Message);
             }
         }
     }

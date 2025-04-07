@@ -15,37 +15,34 @@ namespace JuegoQuiz.Recursos
         // acá estoy diciendo la direcci+on que se va a guardar en la variable filePath
         private string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Preguntas", "CulturaGeneral.json"); // Ruta del archivo de trabajadores
 
-        public IList<Pregunta> ObtenerPreguntasCulturaGeneral()
+        public IList<PreguntasCulturaGeneral> ObtenerPreguntasCulturaGeneral(string dificultadSeleccionada)
         {//Verifica si el archivo existe
+
+            //Verifica si el archivo existe
             try
             {
                 if (!File.Exists(filePath))
-                {
                     throw new FileNotFoundException($"El archivo {filePath} no se encontró.");
-                }
-                //Acá trae la info pero si estar convertida en json ya que c# no sabe que es un Json
+
                 string jsonData = File.ReadAllText(filePath);
-                //acá le decimos que vamos a organizar el Json como un diccionario con 
-                //un strin (historia, categoria) y va a tener info de las preguntas
+                var jsonCultura = JsonSerializer.Deserialize<Dictionary<string, List<PreguntasCulturaGeneral>>>(jsonData);
 
-                var jsonCiencia = JsonSerializer.Deserialize<Dictionary<string, Dictionary<string, List<Pregunta>>>>(jsonData);
+                var preguntasFiltradas = jsonCultura["Cultura General"]
+                    .Where(p => p.Dificultad.ToLower() == dificultadSeleccionada.ToLower())
+                    .OrderBy(_ => Guid.NewGuid()) // 🔀 Aleatorizar
+                    .Take(15)                     // 📦 Tomar solo 15 aleatorias
+                    .ToList();
 
-                var listaPreguntas = jsonCiencia
-                                      .SelectMany(categoria => categoria.Value
-                                      .SelectMany(nivel => nivel.Value.Select(p => {
-                                          p.Dificultad = nivel.Key;
-                                          p.Categoria = new Category(categoria.Key);
-                                          return p;
-                                      }))
-                            )
-                            .ToList();
+                foreach (var pregunta in preguntasFiltradas)
+                {
+                    pregunta.Categoria = new Category(dificultadSeleccionada);
+                }
 
-                return listaPreguntas;
+                return preguntasFiltradas;
             }
             catch (Exception ex)
             {
-
-                throw new ArgumentException("Ocurrio un error " + ex);
+                throw new ArgumentException("Ocurrió un error: " + ex.Message);
             }
         }
     }
