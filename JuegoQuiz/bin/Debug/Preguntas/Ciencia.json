@@ -1,0 +1,820 @@
+﻿{
+  "Ciencia": {
+    "facil": [
+      {
+        "pregunta": "Que planeta de nuestro sistema solar es conocido como el Planeta Rojo?",
+        "respuesta_correcta": "Marte",
+        "respuestas_incorrectas": [
+          "Jupiter",
+          "Venus",
+          "Saturno"
+        ]
+      },
+      {
+        "pregunta": "Que gas esencial para la respiracion humana absorben nuestros pulmones del aire?",
+        "respuesta_correcta": "Oxigeno (O2)",
+        "respuestas_incorrectas": [
+          "Nitrogeno (N2)",
+          "Dioxido de Carbono (CO2)",
+          "Hidrogeno (H2)"
+        ]
+      },
+      {
+        "pregunta": "Que fuerza invisible atrae los objetos hacia el centro de la Tierra y nos mantiene en el suelo?",
+        "respuesta_correcta": "Gravedad",
+        "respuestas_incorrectas": [
+          "Magnetismo",
+          "Friccion",
+          "Electricidad"
+        ]
+      },
+      {
+        "pregunta": "Segun la Union Astronomica Internacional, cuantos planetas hay actualmente en nuestro Sistema Solar?",
+        "respuesta_correcta": "8",
+        "respuestas_incorrectas": [
+          "9",
+          "7",
+          "10"
+        ]
+      },
+      {
+        "pregunta": "Cual es la formula quimica del agua?",
+        "respuesta_correcta": "H2O",
+        "respuestas_incorrectas": [
+          "CO2",
+          "O2",
+          "NaCl"
+        ]
+      },
+      {
+        "pregunta": "En que estado de la materia se encuentra el hielo?",
+        "respuesta_correcta": "Solido",
+        "respuestas_incorrectas": [
+          "Liquido",
+          "Gaseoso",
+          "Plasma"
+        ]
+      },
+      {
+        "pregunta": "Cual es el organo mas grande del cuerpo humano?",
+        "respuesta_correcta": "La piel",
+        "respuestas_incorrectas": [
+          "El higado",
+          "El cerebro",
+          "El corazon"
+        ]
+      },
+      {
+        "pregunta": "Ademas de agua y dioxido de carbono, que necesitan las plantas para realizar la fotosintesis?",
+        "respuesta_correcta": "Luz solar",
+        "respuestas_incorrectas": [
+          "Oxigeno",
+          "Azucar",
+          "Nitrogeno del aire"
+        ]
+      },
+      {
+        "pregunta": "Que famoso cientifico desarrollo la teoria de la relatividad (E=mc2)?",
+        "respuesta_correcta": "Albert Einstein",
+        "respuestas_incorrectas": [
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Marie Curie"
+        ]
+      },
+      {
+        "pregunta": "Como se llama la parte central de un atomo, que contiene protones y neutrones?",
+        "respuesta_correcta": "Nucleo",
+        "respuestas_incorrectas": [
+          "Electron",
+          "Molecula",
+          "Corteza"
+        ]
+      },
+      {
+        "pregunta": "Que instrumento optico se utiliza para observar objetos muy pequenos, como celulas o bacterias?",
+        "respuesta_correcta": "Microscopio",
+        "respuestas_incorrectas": [
+          "Telescopio",
+          "Periscopio",
+          "Binoculares"
+        ]
+      },
+      {
+        "pregunta": "Como se llama el proceso por el cual el agua liquida se convierte en vapor de agua?",
+        "respuesta_correcta": "Evaporacion",
+        "respuestas_incorrectas": [
+          "Condensacion",
+          "Congelacion",
+          "Sublimacion"
+        ]
+      },
+      {
+        "pregunta": "Cuales son los tres colores primarios de la luz (modelo aditivo)?",
+        "respuesta_correcta": "Rojo, Verde y Azul (RGB)",
+        "respuestas_incorrectas": [
+          "Rojo, Amarillo y Azul",
+          "Cian, Magenta y Amarillo",
+          "Naranja, Verde y Violeta"
+        ]
+      },
+      {
+        "pregunta": "A que grupo de animales pertenecen las ballenas?",
+        "respuesta_correcta": "Mamiferos",
+        "respuestas_incorrectas": [
+          "Peces",
+          "Reptiles",
+          "Anfibios"
+        ]
+      },
+      {
+        "pregunta": "Cual es la principal fuente de energia para la vida en la Tierra?",
+        "respuesta_correcta": "El Sol",
+        "respuestas_incorrectas": [
+          "La Luna",
+          "El nucleo de la Tierra",
+          "Los combustibles fosiles"
+        ]
+      },
+      {
+        "pregunta": "A que temperatura en grados Celsius hierve el agua a nivel del mar?",
+        "respuesta_correcta": "100 C",
+        "respuestas_incorrectas": [
+          "0 C",
+          "50 C",
+          "212 C (es en Fahrenheit)"
+        ]
+      },
+      {
+        "pregunta": "Que sustancia dulce recogen las abejas de las flores para producir miel?",
+        "respuesta_correcta": "Nectar",
+        "respuestas_incorrectas": [
+          "Polen",
+          "Agua",
+          "Savia"
+        ]
+      },
+      {
+        "pregunta": "Que sentido utilizamos principalmente con nuestros oidos?",
+        "respuesta_correcta": "Oido (Audicion)",
+        "respuestas_incorrectas": [
+          "Vista",
+          "Olfato",
+          "Tacto"
+        ]
+      },
+      {
+        "pregunta": "Que tipo de energia capturan los paneles solares para generar electricidad?",
+        "respuesta_correcta": "Energia solar (luminosa)",
+        "respuestas_incorrectas": [
+          "Energia eolica",
+          "Energia nuclear",
+          "Energia geotermica"
+        ]
+      },
+      {
+        "pregunta": "Que planeta de nuestro sistema solar esta mas cerca del Sol?",
+        "respuesta_correcta": "Mercurio",
+        "respuestas_incorrectas": [
+          "Venus",
+          "Tierra",
+          "Marte"
+        ]
+      },
+      {
+        "pregunta": "Como se llama la capa exterior dura y blanca que protege nuestros dientes?",
+        "respuesta_correcta": "Esmalte",
+        "respuestas_incorrectas": [
+          "Dentina",
+          "Encia",
+          "Pulpa"
+        ]
+      },
+      {
+        "pregunta": "Que organo muscular bombea sangre a todo el cuerpo?",
+        "respuesta_correcta": "Corazon",
+        "respuestas_incorrectas": [
+          "Pulmon",
+          "Cerebro",
+          "Estomago"
+        ]
+      },
+      {
+        "pregunta": "Si el hielo es solido y el agua es liquida, cual es el tercer estado comun de la materia para el H2O?",
+        "respuesta_correcta": "Gas (Vapor de agua)",
+        "respuestas_incorrectas": [
+          "Plasma",
+          "Cristal",
+          "Gel"
+        ]
+      },
+      {
+        "pregunta": "Que forma geometrica describe mejor la forma general de la Tierra?",
+        "respuesta_correcta": "Esfera (o Geoide/Esferoide achatado)",
+        "respuestas_incorrectas": [
+          "Cubo",
+          "Disco plano",
+          "Piramide"
+        ]
+      },
+      {
+        "pregunta": "Para realizar la fotosintesis, que gas principal toman las plantas del aire?",
+        "respuesta_correcta": "Dioxido de carbono (CO2)",
+        "respuestas_incorrectas": [
+          "Oxigeno (O2)",
+          "Nitrogeno (N2)",
+          "Vapor de agua"
+        ]
+      },
+      {
+        "pregunta": "Como se llama la galaxia en la que vivimos?",
+        "respuesta_correcta": "Via Lactea",
+        "respuestas_incorrectas": [
+          "Andromeda",
+          "Nube de Magallanes",
+          "Galaxia del Sombrero"
+        ]
+      },
+      {
+        "pregunta": "Cuantas patas tiene una arana?",
+        "respuesta_correcta": "8",
+        "respuestas_incorrectas": [
+          "6 (insectos)",
+          "4",
+          "10"
+        ]
+      },
+      {
+        "pregunta": "Que metal comun es fuertemente atraido por los imanes?",
+        "respuesta_correcta": "Hierro (Fe)",
+        "respuestas_incorrectas": [
+          "Aluminio (Al)",
+          "Cobre (Cu)",
+          "Plata (Ag)"
+        ]
+      },
+      {
+        "pregunta": "Que cae de las nubes en forma liquida durante la lluvia?",
+        "respuesta_correcta": "Agua",
+        "respuestas_incorrectas": [
+          "Aire",
+          "Polvo",
+          "Hielo (eso seria granizo o nieve)"
+        ]
+      },
+      {
+        "pregunta": "Que parte de la planta es responsable principalmente de absorber agua y nutrientes del suelo?",
+        "respuesta_correcta": "Raices",
+        "respuestas_incorrectas": [
+          "Hojas",
+          "Tallo",
+          "Flores"
+        ]
+      }
+    ],
+    "medio": [
+      {
+        "pregunta": "Cual es el simbolo quimico del elemento Oro?",
+        "respuesta_correcta": "Au",
+        "respuestas_incorrectas": [
+          "Ag",
+          "Fe",
+          "Pb"
+        ]
+      },
+      {
+        "pregunta": "Que organulo celular es conocido como la central energetica de la celula, responsable de la respiracion celular y produccion de ATP?",
+        "respuesta_correcta": "Mitocondria",
+        "respuestas_incorrectas": [
+          "Nucleo",
+          "Ribosoma",
+          "Cloroplasto"
+        ]
+      },
+      {
+        "pregunta": "La Primera Ley de Newton, que establece que un objeto permanecera en reposo o en movimiento uniforme a menos que actue sobre el una fuerza externa, tambien se conoce como:",
+        "respuesta_correcta": "Ley de la Inercia",
+        "respuestas_incorrectas": [
+          "Ley de Accion y Reaccion",
+          "Ley de Gravitacion Universal",
+          "Ley de Conservacion de la Energia"
+        ]
+      },
+      {
+        "pregunta": "Como se llama el proceso biologico fundamental mediante el cual las plantas, algas y algunas bacterias convierten la energia luminosa en energia quimica?",
+        "respuesta_correcta": "Fotosintesis",
+        "respuestas_incorrectas": [
+          "Respiracion celular",
+          "Fermentacion",
+          "Transpiracion"
+        ]
+      },
+      {
+        "pregunta": "Que capa de la atmosfera terrestre absorbe la mayor parte de la radiacion ultravioleta (UV) danina del sol?",
+        "respuesta_correcta": "La capa de Ozono (O3)",
+        "respuestas_incorrectas": [
+          "La Troposfera",
+          "La Ionosfera",
+          "La Magnetosfera"
+        ]
+      },
+      {
+        "pregunta": "Que escala se utiliza comunmente para medir la magnitud (energia liberada) de un terremoto?",
+        "respuesta_correcta": "Escala de Richter (o mas precisamente, Escala de Magnitud de Momento)",
+        "respuestas_incorrectas": [
+          "Escala de Mercalli",
+          "Escala de Saffir-Simpson",
+          "Escala Celsius"
+        ]
+      },
+      {
+        "pregunta": "Que bacteriologo escoces descubrio accidentalmente la penicilina en 1928?",
+        "respuesta_correcta": "Alexander Fleming",
+        "respuestas_incorrectas": [
+          "Louis Pasteur",
+          "Robert Koch",
+          "Joseph Lister"
+        ]
+      },
+      {
+        "pregunta": "Que tipo de galaxia es la Via Lactea, donde se encuentra nuestro Sistema Solar?",
+        "respuesta_correcta": "Galaxia espiral (barrada)",
+        "respuestas_incorrectas": [
+          "Galaxia eliptica",
+          "Galaxia irregular",
+          "Galaxia lenticular"
+        ]
+      },
+      {
+        "pregunta": "Que significa la sigla ADN en biologia?",
+        "respuesta_correcta": "Acido Desoxirribonucleico",
+        "respuestas_incorrectas": [
+          "Acido Ribonucleico",
+          "Adenosin Trifosfato",
+          "Aminoacido Denso Natural"
+        ]
+      },
+      {
+        "pregunta": "En que unidad del Sistema Internacional se mide la resistencia electrica?",
+        "respuesta_correcta": "Ohm",
+        "respuestas_incorrectas": [
+          "Voltio (V)",
+          "Amperio (A)",
+          "Vatio (W)"
+        ]
+      },
+      {
+        "pregunta": "Que teoria cientifica explica el movimiento a gran escala de las placas que forman la litosfera terrestre?",
+        "respuesta_correcta": "Tectonica de Placas",
+        "respuestas_incorrectas": [
+          "Teoria de la Deriva Continental (precursora)",
+          "Teoria del Big Bang",
+          "Teoria de la Evolucion"
+        ]
+      },
+      {
+        "pregunta": "De que elemento quimico estan compuestos principalmente los diamantes?",
+        "respuesta_correcta": "Carbono (C)",
+        "respuestas_incorrectas": [
+          "Silicio (Si)",
+          "Oxigeno (O)",
+          "Aluminio (Al)"
+        ]
+      },
+      {
+        "pregunta": "Cual es la velocidad aproximada de la luz en el vacio?",
+        "respuesta_correcta": "300.000 kilometros por segundo",
+        "respuestas_incorrectas": [
+          "150.000 kilometros por segundo",
+          "340 metros por segundo (velocidad del sonido aprox.)",
+          "1.000.000 kilometros por segundo"
+        ]
+      },
+      {
+        "pregunta": "Cuales son las unidades monomericas que forman las proteinas?",
+        "respuesta_correcta": "Aminoacidos",
+        "respuestas_incorrectas": [
+          "Nucleotidos",
+          "Monosacaridos",
+          "Acidos grasos"
+        ]
+      },
+      {
+        "pregunta": "Que magnitud fisica, que mide el numero de repeticiones de un fenomeno por unidad de tiempo, se mide en Hertz (Hz)?",
+        "respuesta_correcta": "Frecuencia",
+        "respuestas_incorrectas": [
+          "Velocidad",
+          "Amplitud",
+          "Longitud de onda"
+        ]
+      },
+      {
+        "pregunta": "Cual es el valor del pH del agua pura, considerado neutro?",
+        "respuesta_correcta": "7",
+        "respuestas_incorrectas": [
+          "0 (muy acido)",
+          "14 (muy basico)",
+          "5.6 (lluvia acida tipica)"
+        ]
+      },
+      {
+        "pregunta": "Que naturalista britanico propuso la teoria de la evolucion a traves de la seleccion natural en su libro El origen de las especies?",
+        "respuesta_correcta": "Charles Darwin",
+        "respuestas_incorrectas": [
+          "Gregor Mendel",
+          "Jean-Baptiste Lamarck",
+          "Alfred Russel Wallace (codescubridor)"
+        ]
+      },
+      {
+        "pregunta": "Cual es la funcion principal de los rinones en el sistema excretor humano?",
+        "respuesta_correcta": "Filtrar los desechos de la sangre y producir orina",
+        "respuestas_incorrectas": [
+          "Digerir los alimentos",
+          "Producir hormonas del crecimiento",
+          "Regular la respiracion"
+        ]
+      },
+      {
+        "pregunta": "Segun la clasificacion estelar, que tipo de estrella es nuestro Sol?",
+        "respuesta_correcta": "Enana amarilla (Tipo G)",
+        "respuestas_incorrectas": [
+          "Gigante roja",
+          "Enana blanca",
+          "Supergigante azul"
+        ]
+      },
+      {
+        "pregunta": "Como se llama el cambio de estado directo de gas a solido, sin pasar por el estado liquido?",
+        "respuesta_correcta": "Deposicion (o Sublimacion inversa)",
+        "respuestas_incorrectas": [
+          "Condensacion",
+          "Solidificacion",
+          "Evaporacion"
+        ]
+      },
+      {
+        "pregunta": "Que particula subatomica fundamental tiene carga electrica negativa y orbita alrededor del nucleo?",
+        "respuesta_correcta": "Electron",
+        "respuestas_incorrectas": [
+          "Proton",
+          "Neutron",
+          "Foton"
+        ]
+      },
+      {
+        "pregunta": "Cuales son los dos gases mas abundantes en la atmosfera terrestre y sus porcentajes aproximados?",
+        "respuesta_correcta": "Nitrogeno (~78%) y Oxigeno (~21%)",
+        "respuestas_incorrectas": [
+          "Oxigeno (~78%) y Dioxido de Carbono (~21%)",
+          "Hidrogeno (~78%) y Helio (~21%)",
+          "Dioxido de Carbono (~78%) y Argon (~21%)"
+        ]
+      },
+      {
+        "pregunta": "La Tercera Ley de Newton establece que por cada accion hay...",
+        "respuesta_correcta": "...una reaccion igual y opuesta.",
+        "respuestas_incorrectas": [
+          "...una fuerza de friccion.",
+          "...un cambio en la velocidad.",
+          "...una conservacion de la energia."
+        ]
+      },
+      {
+        "pregunta": "Cual es considerada la unidad basica estructural y funcional de todos los organismos vivos?",
+        "respuesta_correcta": "La celula",
+        "respuestas_incorrectas": [
+          "El atomo",
+          "La molecula",
+          "El tejido"
+        ]
+      },
+      {
+        "pregunta": "Que tipo de lente optica es mas gruesa en el centro que en los bordes y hace converger los rayos de luz paralelos?",
+        "respuesta_correcta": "Lente convergente (convexa)",
+        "respuestas_incorrectas": [
+          "Lente divergente (concava)",
+          "Lente plana",
+          "Espejo concavo"
+        ]
+      },
+      {
+        "pregunta": "Que hormona, producida por el pancreas, es crucial para regular los niveles de glucosa (azucar) en la sangre?",
+        "respuesta_correcta": "Insulina",
+        "respuestas_incorrectas": [
+          "Adrenalina",
+          "Tiroxina",
+          "Glucagon (tiene efecto opuesto)"
+        ]
+      },
+      {
+        "pregunta": "Como se llama la rama de la ciencia que estudia los fosiles de organismos que vivieron en el pasado?",
+        "respuesta_correcta": "Paleontologia",
+        "respuestas_incorrectas": [
+          "Arqueologia",
+          "Geologia",
+          "Antropologia"
+        ]
+      },
+      {
+        "pregunta": "Que elemento quimico, esencial para el transporte de oxigeno en la sangre (hemoglobina), tiene el simbolo Fe?",
+        "respuesta_correcta": "Hierro",
+        "respuestas_incorrectas": [
+          "Fluor",
+          "Fosforo",
+          "Fermio"
+        ]
+      },
+      {
+        "pregunta": "Para medir que propiedad fisica de los minerales se utiliza la Escala de Mohs?",
+        "respuesta_correcta": "Dureza (resistencia al rayado)",
+        "respuestas_incorrectas": [
+          "Densidad",
+          "Brillo",
+          "Peso especifico"
+        ]
+      },
+      {
+        "pregunta": "Que capa interna de la Tierra se encuentra entre la corteza superficial y el nucleo central?",
+        "respuesta_correcta": "Manto",
+        "respuestas_incorrectas": [
+          "Litosfera",
+          "Astenosfera",
+          "Nucleo externo"
+        ]
+      }
+    ],
+    "dificil": [
+      {
+        "pregunta": "Que principio de la fisica establece que todo cuerpo sumergido total o parcialmente en un fluido en reposo experimenta un empuje vertical hacia arriba igual al peso del fluido desalojado?",
+        "respuesta_correcta": "Principio de Arquimedes",
+        "respuestas_incorrectas": [
+          "Principio de Pascal",
+          "Principio de Bernoulli",
+          "Ley de Hooke"
+        ]
+      },
+      {
+        "pregunta": "En el Modelo Estandar de la fisica de particulas, cuales son las cuatro fuerzas fundamentales de la naturaleza?",
+        "respuesta_correcta": "Fuerza nuclear fuerte, fuerza nuclear debil, fuerza electromagnetica y fuerza gravitatoria",
+        "respuestas_incorrectas": [
+          "Fuerza centripeta, fuerza centrifuga, friccion y tension",
+          "Energia cinetica, energia potencial, energia termica y energia quimica",
+          "Interaccion ionica, interaccion covalente, puentes de hidrogeno y fuerzas de Van der Waals"
+        ]
+      },
+      {
+        "pregunta": "Como se llama el ciclo metabolico central en la respiracion celular aerobica, que ocurre en la matriz mitocondrial y oxida el acetil-CoA?",
+        "respuesta_correcta": "Ciclo de Krebs (o Ciclo del acido citrico)",
+        "respuestas_incorrectas": [
+          "Glucolisis",
+          "Fosforilacion oxidativa (Cadena de transporte de electrones)",
+          "Ciclo de Calvin (fotosintesis)"
+        ]
+      },
+      {
+        "pregunta": "Que astronomo aleman formulo las tres leyes sobre el movimiento de los planetas alrededor del Sol?",
+        "respuesta_correcta": "Johannes Kepler",
+        "respuestas_incorrectas": [
+          "Nicolas Copernico",
+          "Tycho Brahe",
+          "Galileo Galilei"
+        ]
+      },
+      {
+        "pregunta": "Que permite realizar la tecnologia de edicion genetica CRISPR-Cas9?",
+        "respuesta_correcta": "Modificar secuencias especificas del ADN con alta precision",
+        "respuestas_incorrectas": [
+          "Clonar organismos completos",
+          "Secuenciar el genoma completo rapidamente",
+          "Crear vacunas de ARN mensajero"
+        ]
+      },
+      {
+        "pregunta": "Segun la mecanica cuantica, que principio establece la imposibilidad de determinar simultaneamente y con precision arbitraria ciertos pares de variables fisicas conjugadas, como la posicion y el momento lineal de una particula?",
+        "respuesta_correcta": "Principio de Incertidumbre de Heisenberg",
+        "respuestas_incorrectas": [
+          "Principio de Exclusion de Pauli",
+          "Efecto Fotoelectrico",
+          "Dualidad Onda-Particula"
+        ]
+      },
+      {
+        "pregunta": "Que tipo de enlace quimico se forma cuando dos atomos comparten uno o mas pares de electrones para alcanzar una configuracion electronica mas estable?",
+        "respuesta_correcta": "Enlace covalente",
+        "respuestas_incorrectas": [
+          "Enlace ionico",
+          "Enlace metalico",
+          "Puente de hidrogeno"
+        ]
+      },
+      {
+        "pregunta": "A que concepto astrofisico se refiere el Limite de Chandrasekhar?",
+        "respuesta_correcta": "La masa maxima que puede tener una estrella enana blanca estable antes de colapsar",
+        "respuestas_incorrectas": [
+          "El radio del horizonte de sucesos de un agujero negro",
+          "La temperatura minima del universo (cero absoluto)",
+          "La distancia a partir de la cual la expansion del universo se acelera"
+        ]
+      },
+      {
+        "pregunta": "Que son los priones, responsables de enfermedades como la encefalopatia espongiforme bovina (vacas locas)?",
+        "respuesta_correcta": "Proteinas infecciosas mal plegadas que pueden inducir a otras proteinas a plegarse incorrectamente",
+        "respuestas_incorrectas": [
+          "Virus de ARN de cadena simple",
+          "Bacterias resistentes a antibioticos",
+          "Parasitos unicelulares"
+        ]
+      },
+      {
+        "pregunta": "En termodinamica, que ley establece que, a temperatura constante, el volumen de una cantidad fija de gas es inversamente proporcional a la presion que ejerce (P1V1 = P2V2)?",
+        "respuesta_correcta": "Ley de Boyle-Mariotte",
+        "respuestas_incorrectas": [
+          "Ley de Charles",
+          "Ley de Gay-Lussac",
+          "Ley de Avogadro"
+        ]
+      },
+      {
+        "pregunta": "Que meteorologo y geofisico aleman propuso en 1912 la Teoria de la Deriva Continental, precursora de la tectonica de placas, aunque inicialmente fue rechazada?",
+        "respuesta_correcta": "Alfred Wegener",
+        "respuestas_incorrectas": [
+          "Charles Lyell",
+          "James Hutton",
+          "Arthur Holmes"
+        ]
+      },
+      {
+        "pregunta": "Cual es la funcion principal de los ribosomas dentro de la celula?",
+        "respuesta_correcta": "Sintesis de proteinas (traduccion del ARN mensajero)",
+        "respuestas_incorrectas": [
+          "Almacenamiento de informacion genetica (ADN)",
+          "Produccion de energia (ATP)",
+          "Digestion celular"
+        ]
+      },
+      {
+        "pregunta": "Que fenomeno optico, causado por la dispersion de la luz solar por las moleculas del aire (principalmente nitrogeno y oxigeno), es responsable de que veamos el cielo de color azul durante el dia?",
+        "respuesta_correcta": "Dispersion de Rayleigh",
+        "respuestas_incorrectas": [
+          "Efecto Doppler",
+          "Refraccion atmosferica",
+          "Difraccion"
+        ]
+      },
+      {
+        "pregunta": "En filosofia de la ciencia y metodologia, que principio heuristico, conocido como Navaja de Ockham, sugiere que, en igualdad de condiciones, la explicacion mas simple suele ser la mas probable?",
+        "respuesta_correcta": "Principio de parsimonia (o simplicidad)",
+        "respuestas_incorrectas": [
+          "Principio de falsabilidad (Popper)",
+          "Induccion",
+          "Reduccionismo"
+        ]
+      },
+      {
+        "pregunta": "Por que son biologicamente notables los tardigrados (osos de agua)?",
+        "respuesta_correcta": "Por su extrema resistencia a condiciones ambientales adversas (vacio, radiacion, deshidratacion) mediante criptobiosis",
+        "respuestas_incorrectas": [
+          "Por ser los unicos mamiferos que ponen huevos",
+          "Por su capacidad de bioluminiscencia en aguas profundas",
+          "Por regenerar extremidades completas"
+        ]
+      },
+      {
+        "pregunta": "Que conjunto de cuatro ecuaciones fundamentales, formuladas por James Clerk Maxwell, describen el comportamiento de los campos electricos y magneticos y unificaron la electricidad, el magnetismo y la optica?",
+        "respuesta_correcta": "Ecuaciones de Maxwell",
+        "respuestas_incorrectas": [
+          "Leyes de Newton",
+          "Leyes de Kepler",
+          "Leyes de la Termodinamica"
+        ]
+      },
+      {
+        "pregunta": "Cual es la diferencia fundamental en el resultado de la division celular por mitosis y por meiosis?",
+        "respuesta_correcta": "Mitosis produce 2 celulas hijas diploides identicas; Meiosis produce 4 celulas hijas haploides geneticamente diferentes.",
+        "respuestas_incorrectas": [
+          "Mitosis produce celulas haploides; Meiosis produce celulas diploides.",
+          "Mitosis ocurre solo en plantas; Meiosis solo en animales.",
+          "Mitosis es para crecimiento; Meiosis para reparacion de tejidos."
+        ]
+      },
+      {
+        "pregunta": "Que fenomeno ondulatorio describe la desviacion o curvatura de las ondas (como la luz o el sonido) cuando encuentran un obstaculo o pasan a traves de una abertura?",
+        "respuesta_correcta": "Difraccion",
+        "respuestas_incorrectas": [
+          "Refraccion",
+          "Reflexion",
+          "Interferencia"
+        ]
+      },
+      {
+        "pregunta": "En el estudio del origen de la vida, que postula la hipotesis del mundo de ARN?",
+        "respuesta_correcta": "Que el ARN, y no el ADN, fue la molecula genetica y catalitica primordial antes de la aparicion de las proteinas y el ADN.",
+        "respuestas_incorrectas": [
+          "Que la vida se origino en respiraderos hidrotermales.",
+          "Que los componentes basicos de la vida llegaron a la Tierra desde el espacio (panspermia).",
+          "Que el ADN se formo espontaneamente a partir de aminoacidos."
+        ]
+      },
+      {
+        "pregunta": "En el Modelo Estandar de fisica de particulas, que son los quarks y los leptones?",
+        "respuesta_correcta": "Tipos de fermiones elementales considerados los constituyentes fundamentales de la materia.",
+        "respuestas_incorrectas": [
+          "Tipos de bosones mediadores de fuerza.",
+          "Particulas compuestas como protones y neutrones.",
+          "Antiparticulas correspondientes a electrones y neutrinos."
+        ]
+      },
+      {
+        "pregunta": "Que ley cosmologica, basada en observaciones de Edwin Hubble, establece que las galaxias se alejan unas de otras a velocidades proporcionales a su distancia, indicando la expansion del universo?",
+        "respuesta_correcta": "Ley de Hubble-Lemaitre",
+        "respuestas_incorrectas": [
+          "Ley de Gravitacion Universal de Newton",
+          "Teoria de la Relatividad General de Einstein",
+          "Principio Cosmologico"
+        ]
+      },
+      {
+        "pregunta": "Cual es la funcion principal del Aparato de Golgi (o Complejo de Golgi) en las celulas eucariotas?",
+        "respuesta_correcta": "Modificar, clasificar y empaquetar proteinas y lipidos para su secrecion o entrega a otros organulos.",
+        "respuestas_incorrectas": [
+          "Realizar la fotosintesis.",
+          "Sintetizar ATP mediante respiracion celular.",
+          "Almacenar el material genetico."
+        ]
+      },
+      {
+        "pregunta": "Que concepto fundamental de la termodinamica, a menudo descrito como una medida del desorden o la aleatoriedad de un sistema, siempre tiende a aumentar en un proceso espontaneo aislado segun la Segunda Ley?",
+        "respuesta_correcta": "Entropia",
+        "respuestas_incorrectas": [
+          "Entalpia",
+          "Energia libre de Gibbs",
+          "Temperatura"
+        ]
+      },
+      {
+        "pregunta": "A que dos cientificos se les atribuye principalmente la propuesta del modelo de la doble helice para la estructura del ADN en 1953, basandose en datos de otros investigadores?",
+        "respuesta_correcta": "James Watson y Francis Crick",
+        "respuestas_incorrectas": [
+          "Rosalind Franklin y Maurice Wilkins",
+          "Linus Pauling y Erwin Chargaff",
+          "Gregor Mendel y Thomas Hunt Morgan"
+        ]
+      },
+      {
+        "pregunta": "En mecanica cuantica, que principio establece que dos o mas fermiones identicos (como electrones) no pueden ocupar el mismo estado cuantico dentro de un sistema cuantico simultaneamente?",
+        "respuesta_correcta": "Principio de Exclusion de Pauli",
+        "respuestas_incorrectas": [
+          "Principio de Incertidumbre de Heisenberg",
+          "Regla de Hund",
+          "Principio de Aufbau"
+        ]
+      },
+      {
+        "pregunta": "El efecto Albedo es una medida de:",
+        "respuesta_correcta": "La reflectividad de una superficie; la proporcion de radiacion solar incidente que es reflejada.",
+        "respuestas_incorrectas": [
+          "La cantidad de calor absorbida por un cuerpo negro.",
+          "La curvatura del espacio-tiempo debido a la masa.",
+          "La intensidad de la radiacion de fondo de microondas."
+        ]
+      },
+      {
+        "pregunta": "Para que se utilizan principalmente las enzimas de restriccion en biotecnologia y biologia molecular?",
+        "respuesta_correcta": "Para cortar moleculas de ADN en secuencias de nucleotidos especificas.",
+        "respuestas_incorrectas": [
+          "Para unir fragmentos de ADN (ligasas).",
+          "Para amplificar secuencias de ADN (PCR).",
+          "Para secuenciar el ADN."
+        ]
+      },
+      {
+        "pregunta": "Que fenomeno de la mecanica cuantica describe una conexion entre particulas en la que sus estados cuanticos estan correlacionados independientemente de la distancia que las separe?",
+        "respuesta_correcta": "Entrelazamiento cuantico (Quantum Entanglement)",
+        "respuestas_incorrectas": [
+          "Superposicion cuantica",
+          "Efecto tunel",
+          "Teleportacion cuantica (relacionado pero distinto)"
+        ]
+      },
+      {
+        "pregunta": "Que describe la cinetica de Michaelis-Menten en bioquimica?",
+        "respuesta_correcta": "La velocidad de las reacciones catalizadas por enzimas en funcion de la concentracion de sustrato.",
+        "respuestas_incorrectas": [
+          "La estructura tridimensional de las proteinas.",
+          "El proceso de replicacion del ADN.",
+          "Las leyes del equilibrio quimico."
+        ]
+      },
+      {
+        "pregunta": "Como se denomina la epoca geologica actual (o propuesta), caracterizada por el impacto global significativo de las actividades humanas en los ecosistemas y la geologia de la Tierra?",
+        "respuesta_correcta": "Antropoceno",
+        "respuestas_incorrectas": [
+          "Holoceno (epoca precedente)",
+          "Pleistoceno",
+          "Mioceno"
+        ]
+      }
+    ]
+  }
+}

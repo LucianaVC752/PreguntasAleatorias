@@ -1,0 +1,1354 @@
+﻿{
+  "Historia": [
+    {
+      "pregunta": "Que civilizacion antigua construyo las piramides de Giza?",
+      "respuesta_correcta": "Egipcia",
+      "respuestas_incorrectas": [
+        "Romana",
+        "Griega",
+        "Maya"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Quien fue el primer presidente de los Estados Unidos?",
+      "respuesta_correcta": "George Washington",
+      "respuestas_incorrectas": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "En que pais comenzo el Renacimiento?",
+      "respuesta_correcta": "Italia",
+      "respuestas_incorrectas": [
+        "Francia",
+        "Espana",
+        "Inglaterra"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que evento marco el inicio de la Primera Guerra Mundial en 1914?",
+      "respuesta_correcta": "El asesinato del Archiduque Francisco Fernando",
+      "respuestas_incorrectas": [
+        "La invasion de Polonia",
+        "El hundimiento del Lusitania",
+        "La Revolucion Rusa"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que imperio fue gobernado por Julio Cesar?",
+      "respuesta_correcta": "Imperio Romano",
+      "respuestas_incorrectas": [
+        "Imperio Persa",
+        "Imperio Otomano",
+        "Imperio Bizantino"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que navegante europeo es famoso por llegar a America en 1492?",
+      "respuesta_correcta": "Cristobal Colon",
+      "respuestas_incorrectas": [
+        "Vasco da Gama",
+        "Fernando de Magallanes",
+        "Marco Polo"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que evento se considera el inicio de la Revolucion Francesa en 1789?",
+      "respuesta_correcta": "La toma de la Bastilla",
+      "respuestas_incorrectas": [
+        "La decapitacion de Luis XVI",
+        "El juramento del Juego de Pelota",
+        "La batalla de Waterloo"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que muro dividio una importante ciudad alemana durante la Guerra Fria?",
+      "respuesta_correcta": "El Muro de Berlin",
+      "respuestas_incorrectas": [
+        "La Gran Muralla China",
+        "El Muro de Adriano",
+        "La Linea Maginot"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que civilizacion antigua es conocida por inventar la democracia?",
+      "respuesta_correcta": "Griega (Atenas)",
+      "respuestas_incorrectas": [
+        "Egipcia",
+        "Romana",
+        "Mesopotamica"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que guerra civil ocurrio en Estados Unidos entre 1861 y 1865?",
+      "respuesta_correcta": "La Guerra de Secesion",
+      "respuestas_incorrectas": [
+        "La Guerra de Independencia",
+        "La Guerra Mexicano-Estadounidense",
+        "La Guerra de Vietnam"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Quien pinto la Mona Lisa?",
+      "respuesta_correcta": "Leonardo da Vinci",
+      "respuestas_incorrectas": [
+        "Miguel Angel",
+        "Rafael",
+        "Donatello"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que enfermedad causo una devastadora pandemia en Europa durante la Edad Media, conocida como la Peste Negra?",
+      "respuesta_correcta": "Peste bubonica",
+      "respuestas_incorrectas": [
+        "Viruela",
+        "Gripe espanola",
+        "Colera"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que sistema social y politico predomino en Europa durante la Edad Media, caracterizado por senores, vasallos y feudos?",
+      "respuesta_correcta": "Feudalismo",
+      "respuestas_incorrectas": [
+        "Capitalismo",
+        "Comunismo",
+        "Democracia"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que movimiento religioso del siglo XVI busco reformar la Iglesia Catolica y llevo a la creacion de iglesias protestantes?",
+      "respuesta_correcta": "La Reforma Protestante",
+      "respuestas_incorrectas": [
+        "La Contrarreforma",
+        "El Renacimiento",
+        "La Ilustracion"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "En que continente se origino la especie humana?",
+      "respuesta_correcta": "Africa",
+      "respuestas_incorrectas": [
+        "Asia",
+        "Europa",
+        "America"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que antigua civilizacion habito en Mesopotamia, entre los rios Tigris y Eufrates?",
+      "respuesta_correcta": "Mesopotamicos (Sumerios, Acadios, Babilonios, Asirios)",
+      "respuestas_incorrectas": [
+        "Egipcios",
+        "Griegos",
+        "Chinos"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que reina de Inglaterra gobernaba durante la derrota de la Armada Invencible espanola en 1588?",
+      "respuesta_correcta": "Isabel I (Elizabeth I)",
+      "respuestas_incorrectas": [
+        "Victoria",
+        "Maria Antonieta",
+        "Catalina la Grande"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que tipo de edificacion fortificada utilizaban los nobles y caballeros en la Edad Media como residencia y defensa?",
+      "respuesta_correcta": "Castillo",
+      "respuestas_incorrectas": [
+        "Piramide",
+        "Anfiteatro",
+        "Monasterio"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Cual fue el objetivo principal de la mision espacial Apolo 11 en 1969?",
+      "respuesta_correcta": "Llevar a los primeros humanos a la Luna",
+      "respuestas_incorrectas": [
+        "Poner el primer satelite en orbita",
+        "Establecer una base espacial permanente",
+        "Explorar Marte"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que pais regalo la Estatua de la Libertad a Estados Unidos?",
+      "respuesta_correcta": "Francia",
+      "respuestas_incorrectas": [
+        "Reino Unido",
+        "Espana",
+        "Alemania"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que nombre recibe la famosa red de rutas comerciales que conectaba Oriente y Occidente en la antiguedad y la Edad Media?",
+      "respuesta_correcta": "La Ruta de la Seda",
+      "respuestas_incorrectas": [
+        "El Camino de Santiago",
+        "La Via Apia",
+        "La Ruta del Incienso"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Quien es conocido como \u0027El Libertador\u0027 por su papel clave en la independencia de varios paises de Sudamerica?",
+      "respuesta_correcta": "Simon Bolivar",
+      "respuestas_incorrectas": [
+        "Jose de San Martin",
+        "Bernardo O\u0027Higgins",
+        "Napoleon Bonaparte"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "En que guerra mundial se enfrentaron las Potencias del Eje y los Aliados?",
+      "respuesta_correcta": "Segunda Guerra Mundial",
+      "respuestas_incorrectas": [
+        "Primera Guerra Mundial",
+        "Guerra Fria",
+        "Guerra de Corea"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que famoso edificio de la antigua Roma se utilizaba para combates de gladiadores y otros espectaculos publicos?",
+      "respuesta_correcta": "El Coliseo",
+      "respuestas_incorrectas": [
+        "El Partenon",
+        "El Panteon",
+        "El Foro Romano"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que invento revolucionario se asocia comunmente con Thomas Edison?",
+      "respuesta_correcta": "La bombilla electrica incandescente practica",
+      "respuestas_incorrectas": [
+        "El telefono",
+        "La imprenta",
+        "El automovil"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que tipo de sistema politico fue derrocado por la Revolucion Rusa de 1917?",
+      "respuesta_correcta": "Monarquia (Zarismo)",
+      "respuestas_incorrectas": [
+        "Democracia",
+        "Republica",
+        "Dictadura militar"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "A que cientifico se le atribuye la Teoria de la Relatividad?",
+      "respuesta_correcta": "Albert Einstein",
+      "respuestas_incorrectas": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Marie Curie"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que documento historico ingles de 1215 limito el poder del rey y establecio ciertos derechos legales?",
+      "respuesta_correcta": "La Carta Magna",
+      "respuestas_incorrectas": [
+        "La Declaracion de Derechos (Bill of Rights)",
+        "El Acta de Union",
+        "Los Estatutos de Oxford"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que periodo historico de grandes descubrimientos geograficos siguio a la Edad Media?",
+      "respuesta_correcta": "La Era de las Exploraciones (o Descubrimientos)",
+      "respuestas_incorrectas": [
+        "El Neolitico",
+        "La Revolucion Industrial",
+        "El Barroco"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Con que civilizacion antigua se asocia principalmente la escritura jeroglifica?",
+      "respuesta_correcta": "Antiguo Egipto",
+      "respuestas_incorrectas": [
+        "Antigua Grecia",
+        "Antigua Roma",
+        "Civilizacion del Indo"
+      ],
+      "dificultad": "facil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 20,
+        "valor_pregunta": 5
+      }
+    },
+    {
+      "pregunta": "Que tratado puso fin oficialmente a la Primera Guerra Mundial?",
+      "respuesta_correcta": "Tratado de Versalles",
+      "respuestas_incorrectas": [
+        "Tratado de Tordesillas",
+        "Pacto de Varsovia",
+        "Acuerdo de Munich"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Quien fue el lider de la Revolucion Bolchevique en Rusia en 1917?",
+      "respuesta_correcta": "Vladimir Lenin",
+      "respuestas_incorrectas": [
+        "Joseph Stalin",
+        "Leon Trotski",
+        "Zar Nicolas II"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que periodo historico se conoce como la \u0027Reparticion de Africa\u0027?",
+      "respuesta_correcta": "La colonizacion europea de Africa a finales del siglo XIX",
+      "respuestas_incorrectas": [
+        "Las guerras punicas",
+        "La expansion del Imperio Otomano",
+        "La descolonizacion africana post-Segunda Guerra Mundial"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que batalla es considerada la derrota final de Napoleon Bonaparte en 1815?",
+      "respuesta_correcta": "Batalla de Waterloo",
+      "respuestas_incorrectas": [
+        "Batalla de Austerlitz",
+        "Batalla de Trafalgar",
+        "Batalla de Borodino"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Bajo que dinastia china visito Marco Polo el pais en el siglo XIII?",
+      "respuesta_correcta": "Dinastia Yuan",
+      "respuestas_incorrectas": [
+        "Dinastia Ming",
+        "Dinastia Tang",
+        "Dinastia Qing"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Cual era el objetivo principal de las Cruzadas lanzadas por los cristianos europeos en la Edad Media?",
+      "respuesta_correcta": "Recuperar Tierra Santa (Jerusalen) del control musulman",
+      "respuestas_incorrectas": [
+        "Establecer rutas comerciales con Asia",
+        "Convertir al Imperio Bizantino al catolicismo",
+        "Luchar contra los vikingos"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "A quien se le atribuye la invencion de la imprenta de tipos moviles en Europa?",
+      "respuesta_correcta": "Johannes Gutenberg",
+      "respuestas_incorrectas": [
+        "Leonardo da Vinci",
+        "Galileo Galilei",
+        "Isaac Newton"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que imperio precolombino tuvo su centro en la region andina de Sudamerica, actual Peru?",
+      "respuesta_correcta": "Imperio Inca",
+      "respuestas_incorrectas": [
+        "Imperio Azteca",
+        "Imperio Maya",
+        "Imperio Olmeca"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que evento provoco la entrada de Estados Unidos en la Segunda Guerra Mundial?",
+      "respuesta_correcta": "El ataque japones a Pearl Harbor",
+      "respuestas_incorrectas": [
+        "La invasion alemana de Polonia",
+        "La batalla de Inglaterra",
+        "El hundimiento del Lusitania (evento de la PGM)"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que movimiento intelectual del siglo XVIII enfatizo la razon, la ciencia y los derechos individuales?",
+      "respuesta_correcta": "La Ilustracion",
+      "respuestas_incorrectas": [
+        "El Romanticismo",
+        "El Renacimiento",
+        "La Reforma Protestante"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que largo conflicto medieval (siglos XIV y XV) enfrento principalmente a Inglaterra y Francia por el trono frances?",
+      "respuesta_correcta": "La Guerra de los Cien Anos",
+      "respuestas_incorrectas": [
+        "Las Guerras Napoleonicas",
+        "La Guerra de las Dos Rosas",
+        "Las Cruzadas"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Quien fue el principal autor de la Declaracion de Independencia de los Estados Unidos?",
+      "respuesta_correcta": "Thomas Jefferson",
+      "respuestas_incorrectas": [
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que nombre recibe el periodo de tension geopolitica entre Estados Unidos y la Union Sovietica tras la Segunda Guerra Mundial?",
+      "respuesta_correcta": "Guerra Fria",
+      "respuestas_incorrectas": [
+        "Entente Cordiale",
+        "Distension",
+        "Guerra Relampago"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que civilizacion mesopotamica desarrollo la escritura cuneiforme, uno de los primeros sistemas de escritura conocidos?",
+      "respuesta_correcta": "Sumeria",
+      "respuestas_incorrectas": [
+        "Babilonica",
+        "Asiria",
+        "Acadia"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Como se llamo la politica britanica y francesa de ceder ante las demandas de Hitler antes de la Segunda Guerra Mundial, con la esperanza de evitar la guerra?",
+      "respuesta_correcta": "Politica de Apaciguamiento",
+      "respuestas_incorrectas": [
+        "Doctrina Truman",
+        "Plan Marshall",
+        "Politica del Gran Garrote (Big Stick)"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Cual era el nombre del barco en el que Charles Darwin realizo su famoso viaje, sentando las bases para su teoria de la evolucion?",
+      "respuesta_correcta": "HMS Beagle",
+      "respuestas_incorrectas": [
+        "Santa Maria",
+        "Endeavour",
+        "Victory"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que acuerdo de 1555 en el Sacro Imperio Romano Germanico permitio a los principes elegir entre el catolicismo y el luteranismo como religion oficial de sus territorios (\u0027cuius regio, eius religio\u0027)?",
+      "respuesta_correcta": "Paz de Augsburgo",
+      "respuestas_incorrectas": [
+        "Edicto de Nantes",
+        "Paz de Westfalia",
+        "Concilio de Trento"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que faraon egipcio es famoso por el descubrimiento de su tumba casi intacta por Howard Carter en 1922?",
+      "respuesta_correcta": "Tutankamon",
+      "respuestas_incorrectas": [
+        "Ramses II",
+        "Akenaton",
+        "Cleopatra VII"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Como se conoce la serie de conflictos religiosos que tuvieron lugar en Francia durante la segunda mitad del siglo XVI entre catolicos y protestantes (hugonotes)?",
+      "respuesta_correcta": "Guerras de religion de Francia",
+      "respuestas_incorrectas": [
+        "Guerra de los Cien Anos",
+        "La Fronda",
+        "Guerra de los Treinta Anos"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que gran centro de saber de la antiguedad, ubicado en Egipto, albergo una vasta coleccion de manuscritos antes de ser destruido?",
+      "respuesta_correcta": "La Biblioteca de Alejandria",
+      "respuestas_incorrectas": [
+        "La Academia de Platon",
+        "La Biblioteca de Pergamo",
+        "El Liceo de Aristoteles"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que nombre recibe el sistema politico y social de Francia antes de 1789, caracterizado por la monarquia absoluta y los estamentos privilegiados, que fue derrocado por la Revolucion?",
+      "respuesta_correcta": "Antiguo Regimen",
+      "respuestas_incorrectas": [
+        "Republica Jacobina",
+        "Imperio Napoleonico",
+        "Restauracion Borbonica"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que suceso financiero de octubre de 1929 en Estados Unidos desencadeno la crisis economica mundial conocida como la Gran Depresion?",
+      "respuesta_correcta": "El Crac del 29 (Caida de la Bolsa de Wall Street)",
+      "respuestas_incorrectas": [
+        "La Burbuja de los Mares del Sur",
+        "La Crisis del Petroleo de 1973",
+        "El Lunes Negro de 1987"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Quien fue el lider maximo del Partido Comunista y de la Republica Popular China tras la revolucion de 1949?",
+      "respuesta_correcta": "Mao Zedong (Mao Tse-Tung)",
+      "respuestas_incorrectas": [
+        "Chiang Kai-shek",
+        "Deng Xiaoping",
+        "Sun Yat-sen"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Como se llamo el programa estadounidense de ayuda economica masiva para la reconstruccion de Europa Occidental despues de la Segunda Guerra Mundial?",
+      "respuesta_correcta": "Plan Marshall",
+      "respuestas_incorrectas": [
+        "Doctrina Truman",
+        "Plan Dawes",
+        "Nuevo Trato (New Deal)"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que civilizacion mesoamericana precolombina, conocida por su avanzado sistema de escritura y calendario, construyo la ciudad de Chichen Itza?",
+      "respuesta_correcta": "Maya",
+      "respuestas_incorrectas": [
+        "Azteca (Mexica)",
+        "Inca",
+        "Olmeca"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que nombre recibe el largo proceso historico (siglos VIII-XV) durante el cual los reinos cristianos de la Peninsula Iberica recuperaron territorios controlados por los musulmanes?",
+      "respuesta_correcta": "La Reconquista",
+      "respuestas_incorrectas": [
+        "Las Cruzadas",
+        "La Unificacion Italiana",
+        "La Expansion Vikinga"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que astronomo polaco del Renacimiento formulo el modelo heliocentrico del universo, que situaba al Sol, y no a la Tierra, en el centro?",
+      "respuesta_correcta": "Nicolas Copernico",
+      "respuestas_incorrectas": [
+        "Ptolomeo",
+        "Johannes Kepler",
+        "Galileo Galilei"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que batalla decisiva de 1066 resulto en la victoria normanda sobre los anglosajones y marco el inicio de la conquista normanda de Inglaterra?",
+      "respuesta_correcta": "Batalla de Hastings",
+      "respuestas_incorrectas": [
+        "Batalla de Stamford Bridge",
+        "Batalla de Agincourt",
+        "Batalla de Bannockburn"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que sistema de segregacion racial institucionalizada existio en Sudafrica desde 1948 hasta principios de la decada de 1990?",
+      "respuesta_correcta": "Apartheid",
+      "respuestas_incorrectas": [
+        "Leyes Jim Crow",
+        "Sistema de Castas",
+        "Servidumbre"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Que influyente tratado politico renacentista, escrito por Nicolas Maquiavelo, ofrece consejos practicos a los gobernantes sobre como obtener y mantener el poder?",
+      "respuesta_correcta": "El Principe",
+      "respuestas_incorrectas": [
+        "La Republica (Platon)",
+        "Utopia (Tomas Moro)",
+        "Leviatan (Thomas Hobbes)"
+      ],
+      "dificultad": "medio",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 15,
+        "valor_pregunta": 10
+      }
+    },
+    {
+      "pregunta": "Cual fue la causa inmediata que desencadeno la Guerra de Sucesion Espanola (1701-1714)?",
+      "respuesta_correcta": "La muerte sin descendencia de Carlos II de Espana",
+      "respuestas_incorrectas": [
+        "La invasion napoleonica de Espana",
+        "La rebelion de las Comunidades de Castilla",
+        "La firma del Tratado de Tordesillas"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que acuerdo secreto de 1916 entre Reino Unido y Francia planeaba la division del Imperio Otomano en el Medio Oriente tras la PGM?",
+      "respuesta_correcta": "Acuerdo Sykes-Picot",
+      "respuestas_incorrectas": [
+        "Tratado de Sevres",
+        "Declaracion Balfour",
+        "Conferencia de San Remo"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Quien fue el principal arquitecto politico de la unificacion alemana en el siglo XIX, conocido como el \u0027Canciller de Hierro\u0027?",
+      "respuesta_correcta": "Otto von Bismarck",
+      "respuestas_incorrectas": [
+        "Kaiser Guillermo I",
+        "Helmuth von Moltke",
+        "Napoleon III"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que rebelion popular anti-extranjera y anti-cristiana ocurrio en China entre 1899 y 1901?",
+      "respuesta_correcta": "Levantamiento de los Boxers",
+      "respuestas_incorrectas": [
+        "Rebelion Taiping",
+        "Revolucion de Xinhai",
+        "Guerra del Opio"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que serie de tres guerras enfrentaron a Roma y Cartago por el dominio del Mediterraneo occidental?",
+      "respuesta_correcta": "Guerras Punicas",
+      "respuestas_incorrectas": [
+        "Guerras Medicas",
+        "Guerra del Peloponeso",
+        "Guerras Macedonicas"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que doctrina de politica exterior estadounidense, proclamada en 1823, advertia a las potencias europeas contra la intervencion en el continente americano?",
+      "respuesta_correcta": "Doctrina Monroe",
+      "respuestas_incorrectas": [
+        "Destino Manifiesto",
+        "Doctrina Truman",
+        "Corolario Roosevelt"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que evento de 1054 formalizo la separacion entre la Iglesia Catolica Romana y la Iglesia Ortodoxa Oriental?",
+      "respuesta_correcta": "El Gran Cisma de Oriente",
+      "respuestas_incorrectas": [
+        "El Cisma de Occidente",
+        "El Concilio de Nicea",
+        "La Querella de las Investiduras"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que emperador bizantino es famoso por su codificacion del derecho romano en el \u0027Corpus Juris Civilis\u0027?",
+      "respuesta_correcta": "Justiniano I",
+      "respuestas_incorrectas": [
+        "Constantino el Grande",
+        "Heraclio",
+        "Basilio II"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "En que conferencia europea (1884-1885) se establecieron las reglas para la colonizacion y el comercio en Africa, formalizando la \u0027Reparticion de Africa\u0027?",
+      "respuesta_correcta": "Conferencia de Berlin",
+      "respuestas_incorrectas": [
+        "Congreso de Viena",
+        "Conferencia de Yalta",
+        "Congreso de Aquisgran"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que politica economica, predominante entre los siglos XVI y XVIII, se basaba en la acumulacion de metales preciosos, el proteccionismo y una balanza comercial favorable?",
+      "respuesta_correcta": "Mercantilismo",
+      "respuestas_incorrectas": [
+        "Fisiocracia",
+        "Liberalismo economico",
+        "Socialismo utopico"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Quien fue el lider clave de la Revolucion Haitiana, la unica revuelta de esclavos exitosa que condujo a la formacion de un estado independiente?",
+      "respuesta_correcta": "Toussaint Louverture",
+      "respuestas_incorrectas": [
+        "Jean-Jacques Dessalines",
+        "Simon Bolivar",
+        "Nat Turner"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Como se conoce el conflicto medieval entre el Papado y el Sacro Imperio Romano Germanico sobre el derecho a nombrar obispos y abades?",
+      "respuesta_correcta": "Querella de las Investiduras",
+      "respuestas_incorrectas": [
+        "Guerra de los Treinta Anos",
+        "Cisma de Occidente",
+        "Concordato de Worms (fue la resolucion, no el conflicto)"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Cual fue el nombre de la primera policia secreta sovietica, establecida por los bolcheviques despues de la Revolucion de Octubre?",
+      "respuesta_correcta": "Cheka",
+      "respuestas_incorrectas": [
+        "NKVD",
+        "KGB",
+        "Ojrana (policia zarista)"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que antigua ciudad-estado griega era famosa por su sociedad altamente militarizada y rival de Atenas?",
+      "respuesta_correcta": "Esparta",
+      "respuestas_incorrectas": [
+        "Corinto",
+        "Tebas",
+        "Micenas"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que conjunto de tratados de paz, firmados en 1648, pusieron fin a la Guerra de los Treinta Anos en el Sacro Imperio Romano Germanico y a la Guerra de los Ochenta Anos entre Espana y los Paises Bajos?",
+      "respuesta_correcta": "Paz de Westfalia",
+      "respuestas_incorrectas": [
+        "Paz de Augsburgo",
+        "Tratado de Utrecht",
+        "Congreso de Viena"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Como se conoce el periodo del siglo XIV (1309-1377) durante el cual siete papas sucesivos residieron en Avinon, Francia, en lugar de Roma, bajo influencia de la corona francesa?",
+      "respuesta_correcta": "El Papado de Avinon (o Cautiverio de Babilonia)",
+      "respuestas_incorrectas": [
+        "El Gran Cisma de Occidente",
+        "La Querella de las Investiduras",
+        "El Concilio Vaticano I"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que tratado de 1748 puso fin a la Guerra de Sucesion Austriaca, reconociendo a Maria Teresa como heredera de los Habsburgo pero cediendo Silesia a Prusia?",
+      "respuesta_correcta": "Tratado de Aquisgran (Aix-la-Chapelle)",
+      "respuestas_incorrectas": [
+        "Tratado de Utrecht",
+        "Paz de Hubertusburgo",
+        "Tratado de Paris (1763)"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que economista clasico britanico, en su obra \u0027Principios de economia politica y tributacion\u0027, formulo la \u0027Ley de Hierro de los Salarios\u0027, que sostenia que los salarios tienden a gravitar hacia el nivel minimo de subsistencia?",
+      "respuesta_correcta": "David Ricardo",
+      "respuestas_incorrectas": [
+        "Adam Smith",
+        "Thomas Malthus",
+        "John Stuart Mill"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Cual fue el nombre en clave de la fallida invasion de Cuba en abril de 1961, llevada a cabo por exiliados cubanos entrenados y financiados por la CIA?",
+      "respuesta_correcta": "Invasion de Bahia de Cochinos",
+      "respuestas_incorrectas": [
+        "Operacion Mongoose",
+        "Crisis de los misiles de Cuba",
+        "Operacion Furia Urgente (Granada)"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que figura religiosa dominicana lidero un movimiento de reforma moral y religiosa en Florencia a finales del siglo XV, famoso por sus \u0027hogueras de las vanidades\u0027?",
+      "respuesta_correcta": "Girolamo Savonarola",
+      "respuestas_incorrectas": [
+        "Martin Lutero",
+        "Juan Calvino",
+        "Tomas de Torquemada"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que prolongado conflicto (431-404 a.C.) entre las ligas lideradas por Atenas y Esparta debilito significativamente a las ciudades-estado griegas?",
+      "respuesta_correcta": "Guerra del Peloponeso",
+      "respuestas_incorrectas": [
+        "Guerras Medicas",
+        "Guerras Punicas",
+        "Conquistas de Alejandro Magno"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Cual era la principal demanda de los manifestantes en St Peter\u0027s Field, Manchester, en 1819, que condujo a la Masacre de Peterloo?",
+      "respuesta_correcta": "Reforma parlamentaria y sufragio universal masculino",
+      "respuestas_incorrectas": [
+        "Aumento de salarios",
+        "Independencia de Irlanda",
+        "Abolicion de la esclavitud"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Quien fue el ultimo Zar de Rusia, forzado a abdicar durante la Revolucion de Febrero de 1917?",
+      "respuesta_correcta": "Nicolas II",
+      "respuestas_incorrectas": [
+        "Alejandro III",
+        "Pedro el Grande",
+        "Ivan el Terrible"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que ley federal estadounidense de 1965, firmada por Lyndon B. Johnson, fue disenada para eliminar las barreras legales a nivel estatal y local que impedian a los afroamericanos ejercer su derecho al voto?",
+      "respuesta_correcta": "Ley de Derecho al Voto (Voting Rights Act)",
+      "respuestas_incorrectas": [
+        "Ley de Derechos Civiles de 1964",
+        "Decision Brown v. Board of Education",
+        "Decimocuarta Enmienda"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que cultura preincaica del sur de Peru es famosa por crear enormes geoglifos en el desierto, conocidos como las Lineas de Nazca?",
+      "respuesta_correcta": "Cultura Nazca",
+      "respuestas_incorrectas": [
+        "Cultura Moche",
+        "Cultura Chavin",
+        "Cultura Tiahuanaco"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que fue el \u0027Telegrama de Ems\u0027 y cual fue su importancia historica?",
+      "respuesta_correcta": "Un despacho editado por Bismarck para provocar a Francia a declarar la guerra a Prusia en 1870",
+      "respuestas_incorrectas": [
+        "Un mensaje que inicio la Primera Guerra Mundial (Telegrama Zimmermann)",
+        "Un codigo secreto usado por los Aliados en la SGM",
+        "La primera comunicacion telegrafica transatlantica"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que filosofo ingles del siglo XVII argumento en su obra \u0027Leviatan\u0027 que los individuos deben ceder algunos derechos a un soberano absoluto a cambio de proteccion y orden (contrato social)?",
+      "respuesta_correcta": "Thomas Hobbes",
+      "respuestas_incorrectas": [
+        "John Locke",
+        "Jean-Jacques Rousseau",
+        "Montesquieu"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Cual fue la principal consecuencia estrategica de la Batalla de Lepanto en 1571?",
+      "respuesta_correcta": "Freno la expansion naval otomana en el Mediterraneo occidental",
+      "respuestas_incorrectas": [
+        "Marco el inicio del dominio naval ingles",
+        "Condujo a la caida de Constantinopla",
+        "Permitio a Espana conquistar el norte de Africa"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Que acuerdo de 1867 transformo el Imperio Austriaco en la monarquia dual de Austria-Hungria, otorgando a Hungria una mayor autonomia?",
+      "respuesta_correcta": "El Compromiso Austrohungaro (Ausgleich)",
+      "respuestas_incorrectas": [
+        "El Congreso de Viena",
+        "La Pragmatica Sancion",
+        "El Tratado de Saint-Germain-en-Laye"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    },
+    {
+      "pregunta": "Por que son historicamente significativos los disturbios de Stonewall ocurridos en Nueva York en 1969?",
+      "respuesta_correcta": "Se consideran un catalizador clave para el movimiento moderno por los derechos LGTBQ\u002B",
+      "respuestas_incorrectas": [
+        "Fueron el inicio del movimiento por los derechos civiles afroamericanos",
+        "Provocaron el fin de la Guerra de Vietnam",
+        "Condujeron a la legalizacion del aborto (Roe v. Wade)"
+      ],
+      "dificultad": "dificil",
+      "categoria": {
+        "name": "Historia",
+        "tiempo": 10,
+        "valor_pregunta": 15
+      }
+    }
+  ]
+}

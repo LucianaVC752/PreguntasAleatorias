@@ -1,0 +1,820 @@
+{
+  "Cultura General": {
+    "facil": [
+      {
+        "pregunta": "Cual es la capital de Francia?",
+        "respuesta_correcta": "Paris",
+        "respuestas_incorrectas": [
+          "Londres",
+          "Roma",
+          "Berlin"
+        ]
+      },
+      {
+        "pregunta": "Segun el modelo mas comun, cuantos continentes hay en el mundo?",
+        "respuesta_correcta": "7",
+        "respuestas_incorrectas": [
+          "5",
+          "6",
+          "8"
+        ]
+      },
+      {
+        "pregunta": "Quien pinto la famosa obra La Mona Lisa (La Gioconda)?",
+        "respuesta_correcta": "Leonardo da Vinci",
+        "respuestas_incorrectas": [
+          "Miguel Angel",
+          "Rafael",
+          "Vincent van Gogh"
+        ]
+      },
+      {
+        "pregunta": "Cual es considerado actualmente el rio mas largo del mundo?",
+        "respuesta_correcta": "El Rio Amazonas",
+        "respuestas_incorrectas": [
+          "El Rio Nilo",
+          "El Rio Misisipi",
+          "El Rio Yangtse"
+        ]
+      },
+      {
+        "pregunta": "Cual es la moneda oficial de Japon?",
+        "respuesta_correcta": "Yen",
+        "respuestas_incorrectas": [
+          "Won",
+          "Dolar",
+          "Euro"
+        ]
+      },
+      {
+        "pregunta": "Cuales son los tres colores de la bandera de Italia?",
+        "respuesta_correcta": "Verde, Blanco y Rojo",
+        "respuestas_incorrectas": [
+          "Rojo, Amarillo y Verde",
+          "Azul, Blanco y Rojo",
+          "Negro, Rojo y Amarillo"
+        ]
+      },
+      {
+        "pregunta": "Cuantos dias tiene una semana?",
+        "respuesta_correcta": "7",
+        "respuestas_incorrectas": [
+          "5",
+          "10",
+          "30"
+        ]
+      },
+      {
+        "pregunta": "Quien escribio la famosa novela Don Quijote de la Mancha?",
+        "respuesta_correcta": "Miguel de Cervantes Saavedra",
+        "respuestas_incorrectas": [
+          "William Shakespeare",
+          "Lope de Vega",
+          "Gabriel Garcia Marquez"
+        ]
+      },
+      {
+        "pregunta": "En que ciudad italiana se encuentra la famosa Torre Inclinada?",
+        "respuesta_correcta": "Pisa",
+        "respuestas_incorrectas": [
+          "Roma",
+          "Florencia",
+          "Venecia"
+        ]
+      },
+      {
+        "pregunta": "Que oceano separa America de Europa y Africa?",
+        "respuesta_correcta": "Oceano Atlantico",
+        "respuestas_incorrectas": [
+          "Oceano Pacifico",
+          "Oceano Indico",
+          "Oceano Artico"
+        ]
+      },
+      {
+        "pregunta": "Cual es el antonimo de la palabra caliente?",
+        "respuesta_correcta": "Frio",
+        "respuestas_incorrectas": [
+          "Tibio",
+          "Ardiente",
+          "Templado"
+        ]
+      },
+      {
+        "pregunta": "Que deporte se juega con un bate, una pelota y bases?",
+        "respuesta_correcta": "Beisbol (o Softbol)",
+        "respuestas_incorrectas": [
+          "Futbol",
+          "Baloncesto",
+          "Tenis"
+        ]
+      },
+      {
+        "pregunta": "Cual es la capital de Colombia?",
+        "respuesta_correcta": "Bogota D.C.",
+        "respuestas_incorrectas": [
+          "Medellin",
+          "Cali",
+          "Cartagena"
+        ]
+      },
+      {
+        "pregunta": "Cuantos lados tiene un triangulo?",
+        "respuesta_correcta": "3",
+        "respuestas_incorrectas": [
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "pregunta": "Que gas liberan las plantas durante la fotosintesis, esencial para nuestra respiracion?",
+        "respuesta_correcta": "Oxigeno (O2)",
+        "respuestas_incorrectas": [
+          "Dioxido de carbono (CO2)",
+          "Nitrogeno (N2)",
+          "Hidrogeno (H2)"
+        ]
+      },
+      {
+        "pregunta": "Cual es el opuesto de dia?",
+        "respuesta_correcta": "Noche",
+        "respuestas_incorrectas": [
+          "Tarde",
+          "Manana",
+          "Mediodia"
+        ]
+      },
+      {
+        "pregunta": "Cuantos colores se dice comunmente que tiene el arcoiris?",
+        "respuesta_correcta": "7",
+        "respuestas_incorrectas": [
+          "5",
+          "6",
+          "8"
+        ]
+      },
+      {
+        "pregunta": "Como se llama la comida que se toma por la manana?",
+        "respuesta_correcta": "Desayuno",
+        "respuestas_incorrectas": [
+          "Almuerzo",
+          "Cena",
+          "Merienda"
+        ]
+      },
+      {
+        "pregunta": "Que planeta es famoso por sus anillos?",
+        "respuesta_correcta": "Saturno",
+        "respuestas_incorrectas": [
+          "Jupiter",
+          "Neptuno",
+          "Urano"
+        ]
+      },
+      {
+        "pregunta": "Cual es la capital de Espana?",
+        "respuesta_correcta": "Madrid",
+        "respuestas_incorrectas": [
+          "Barcelona",
+          "Lisboa",
+          "Sevilla"
+        ]
+      },
+      {
+        "pregunta": "Que animal es conocido como el mejor amigo del hombre?",
+        "respuesta_correcta": "Perro",
+        "respuestas_incorrectas": [
+          "Gato",
+          "Caballo",
+          "Loro"
+        ]
+      },
+      {
+        "pregunta": "Que sonido caracteristico hace un gato?",
+        "respuesta_correcta": "Miau",
+        "respuestas_incorrectas": [
+          "Guau",
+          "Pio",
+          "Muu"
+        ]
+      },
+      {
+        "pregunta": "Cual es el idioma principal hablado en Brasil?",
+        "respuesta_correcta": "Portugues",
+        "respuestas_incorrectas": [
+          "Espanol",
+          "Ingles",
+          "Frances"
+        ]
+      },
+      {
+        "pregunta": "Cuantas ruedas tiene una bicicleta estandar?",
+        "respuesta_correcta": "2",
+        "respuestas_incorrectas": [
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "pregunta": "Que estructura natural famosa se encuentra en la frontera entre EE.UU. y Canada y destaca por sus grandes cascadas?",
+        "respuesta_correcta": "Cataratas del Niagara",
+        "respuestas_incorrectas": [
+          "Cataratas de Iguazu",
+          "Salto Angel",
+          "Cataratas Victoria"
+        ]
+      },
+      {
+        "pregunta": "Cual es el ingrediente principal del guacamole?",
+        "respuesta_correcta": "Aguacate",
+        "respuestas_incorrectas": [
+          "Tomate",
+          "Cebolla",
+          "Maiz"
+        ]
+      },
+      {
+        "pregunta": "Quien es el Papa de la Iglesia Catolica (a principios de 2025)?",
+        "respuesta_correcta": "Papa Francisco",
+        "respuestas_incorrectas": [
+          "Papa Benedicto XVI",
+          "Papa Juan Pablo II",
+          "Papa Emerito"
+        ]
+      },
+      {
+        "pregunta": "Cual es el pais mas grande del mundo en terminos de superficie terrestre?",
+        "respuesta_correcta": "Rusia",
+        "respuestas_incorrectas": [
+          "Canada",
+          "China",
+          "Estados Unidos"
+        ]
+      },
+      {
+        "pregunta": "Que famoso artista espanol pinto el mural 'Guernica'?",
+        "respuesta_correcta": "Pablo Picasso",
+        "respuestas_incorrectas": [
+          "Salvador Dali",
+          "Joan Miro",
+          "Francisco de Goya"
+        ]
+      },
+      {
+        "pregunta": "Como se llama la inmensa fortificacion construida en China a lo largo de siglos?",
+        "respuesta_correcta": "La Gran Muralla China",
+        "respuestas_incorrectas": [
+          "La Ciudad Prohibida",
+          "El Ejercito de Terracota",
+          "El Muro de Berlin"
+        ]
+      }
+    ],
+    "medio": [
+      {
+        "pregunta": "Cual es la capital de Australia?",
+        "respuesta_correcta": "Canberra",
+        "respuestas_incorrectas": [
+          "Sidney",
+          "Melbourne",
+          "Brisbane"
+        ]
+      },
+      {
+        "pregunta": "En la mitologia griega, quien era el rey de los dioses del Olimpo?",
+        "respuesta_correcta": "Zeus",
+        "respuestas_incorrectas": [
+          "Poseidon",
+          "Hades",
+          "Apolo"
+        ]
+      },
+      {
+        "pregunta": "Que famoso pintor postimpresionista neerlandes es conocido por obras como La noche estrellada y por haberse cortado parte de una oreja?",
+        "respuesta_correcta": "Vincent van Gogh",
+        "respuestas_incorrectas": [
+          "Claude Monet",
+          "Pablo Picasso",
+          "Rembrandt"
+        ]
+      },
+      {
+        "pregunta": "Cual es la montana mas alta del mundo sobre el nivel del mar?",
+        "respuesta_correcta": "Monte Everest",
+        "respuestas_incorrectas": [
+          "K2",
+          "Aconcagua",
+          "Mont Blanc"
+        ]
+      },
+      {
+        "pregunta": "Cual es la moneda oficial del Reino Unido?",
+        "respuesta_correcta": "Libra esterlina",
+        "respuestas_incorrectas": [
+          "Euro",
+          "Dolar",
+          "Franco (CHF)"
+        ]
+      },
+      {
+        "pregunta": "Quien escribio la aclamada novela Cien anos de soledad?",
+        "respuesta_correcta": "Gabriel Garcia Marquez",
+        "respuestas_incorrectas": [
+          "Mario Vargas Llosa",
+          "Julio Cortazar",
+          "Isabel Allende"
+        ]
+      },
+      {
+        "pregunta": "Que pais europeo tiene una forma geografica que se asemeja a una bota?",
+        "respuesta_correcta": "Italia",
+        "respuestas_incorrectas": [
+          "Grecia",
+          "Espana",
+          "Noruega"
+        ]
+      },
+      {
+        "pregunta": "En que famoso museo de Paris se encuentra la Mona Lisa?",
+        "respuesta_correcta": "Museo del Louvre",
+        "respuestas_incorrectas": [
+          "Museo de Orsay",
+          "Centro Pompidou",
+          "Museo del Prado (Madrid)"
+        ]
+      },
+      {
+        "pregunta": "Por que tipo de instrumento musical es mundialmente famosa la marca Stradivarius?",
+        "respuesta_correcta": "Violin (tambien violas, chelos)",
+        "respuestas_incorrectas": [
+          "Piano",
+          "Guitarra",
+          "Flauta"
+        ]
+      },
+      {
+        "pregunta": "En las direcciones de internet, que significan las siglas www?",
+        "respuesta_correcta": "World Wide Web",
+        "respuestas_incorrectas": [
+          "Web World Wide",
+          "World Web Window",
+          "Wide World Web"
+        ]
+      },
+      {
+        "pregunta": "Que ciudad brasilena fue sede de los Juegos Olimpicos de Verano en 2016?",
+        "respuesta_correcta": "Rio de Janeiro",
+        "respuestas_incorrectas": [
+          "Sao Paulo",
+          "Brasilia",
+          "Salvador de Bahia"
+        ]
+      },
+      {
+        "pregunta": "Que artista del Renacimiento pinto los frescos del techo de la Capilla Sixtina en el Vaticano?",
+        "respuesta_correcta": "Miguel Angel (Michelangelo)",
+        "respuestas_incorrectas": [
+          "Leonardo da Vinci",
+          "Rafael Sanzio",
+          "Donatello"
+        ]
+      },
+      {
+        "pregunta": "Cual es el rio mas caudaloso y, segun mediciones recientes, tambien el mas largo de Sudamerica y del mundo?",
+        "respuesta_correcta": "Rio Amazonas",
+        "respuestas_incorrectas": [
+          "Rio Orinoco",
+          "Rio Parana",
+          "Rio Magdalena"
+        ]
+      },
+      {
+        "pregunta": "Como se llama la famosa fiesta anual en Bunol, Espana, donde los participantes se arrojan tomates unos a otros?",
+        "respuesta_correcta": "La Tomatina",
+        "respuestas_incorrectas": [
+          "San Fermin (Pamplona)",
+          "Fallas de Valencia",
+          "Feria de Abril (Sevilla)"
+        ]
+      },
+      {
+        "pregunta": "Cuales son los cinco paises miembros permanentes del Consejo de Seguridad de las Naciones Unidas?",
+        "respuesta_correcta": "China, Francia, Rusia, Reino Unido y Estados Unidos",
+        "respuestas_incorrectas": [
+          "Alemania, Japon, India, Brasil y Sudafrica",
+          "Canada, Australia, Italia, Espana y Mexico",
+          "China, India, Estados Unidos, Rusia y Brasil"
+        ]
+      },
+      {
+        "pregunta": "Cual es la capital de Argentina?",
+        "respuesta_correcta": "Buenos Aires",
+        "respuestas_incorrectas": [
+          "Santiago",
+          "Lima",
+          "Montevideo"
+        ]
+      },
+      {
+        "pregunta": "En la mitologia romana, quien es el dios del mar, equivalente al griego Poseidon?",
+        "respuesta_correcta": "Neptuno",
+        "respuestas_incorrectas": [
+          "Jupiter",
+          "Marte",
+          "Vulcano"
+        ]
+      },
+      {
+        "pregunta": "Cual es el termino linguistico para una palabra que expresa un significado opuesto al de otra palabra?",
+        "respuesta_correcta": "Antonimo",
+        "respuestas_incorrectas": [
+          "Sinonimo",
+          "Homonimo",
+          "Paronimo"
+        ]
+      },
+      {
+        "pregunta": "Que ciudad italiana es mundialmente famosa por sus canales y gondolas?",
+        "respuesta_correcta": "Venecia",
+        "respuestas_incorrectas": [
+          "Florencia",
+          "Napoles",
+          "Milan"
+        ]
+      },
+      {
+        "pregunta": "Quien escribio la famosa tragedia 'Romeo y Julieta'?",
+        "respuesta_correcta": "William Shakespeare",
+        "respuestas_incorrectas": [
+          "Christopher Marlowe",
+          "Charles Dickens",
+          "Oscar Wilde"
+        ]
+      },
+      {
+        "pregunta": "Cual es la religion mayoritaria y originaria de la India?",
+        "respuesta_correcta": "Hinduismo",
+        "respuestas_incorrectas": [
+          "Budismo",
+          "Islam",
+          "Sijismo"
+        ]
+      },
+      {
+        "pregunta": "Que celebre artista colombiano es reconocido internacionalmente por sus pinturas y esculturas de figuras voluminosas?",
+        "respuesta_correcta": "Fernando Botero",
+        "respuestas_incorrectas": [
+          "Alejandro Obregon",
+          "Omar Rayo",
+          "David Manzur"
+        ]
+      },
+      {
+        "pregunta": "Cual es el volcan activo mas alto de Europa, situado en Sicilia, Italia?",
+        "respuesta_correcta": "Monte Etna",
+        "respuestas_incorrectas": [
+          "Vesubio",
+          "Teide",
+          "Stromboli"
+        ]
+      },
+      {
+        "pregunta": "Que significan las siglas NASA, la agencia espacial de Estados Unidos?",
+        "respuesta_correcta": "National Aeronautics and Space Administration",
+        "respuestas_incorrectas": [
+          "North American Space Agency",
+          "National Agency for Space Advancement",
+          "Nuclear Astronautics and Satellite Administration"
+        ]
+      },
+      {
+        "pregunta": "Que instrumento meteorologico se utiliza para medir la presion atmosferica?",
+        "respuesta_correcta": "Barometro",
+        "respuestas_incorrectas": [
+          "Termometro",
+          "Anemometro",
+          "Higrometro"
+        ]
+      },
+      {
+        "pregunta": "Quien fue el primer ser humano en pisar la superficie de la Luna en 1969?",
+        "respuesta_correcta": "Neil Armstrong",
+        "respuestas_incorrectas": [
+          "Buzz Aldrin",
+          "Yuri Gagarin",
+          "Michael Collins"
+        ]
+      },
+      {
+        "pregunta": "Que moneda se utiliza oficialmente en Mexico?",
+        "respuesta_correcta": "Peso Mexicano",
+        "respuestas_incorrectas": [
+          "Dolar Estadounidense",
+          "Real Brasileno",
+          "Quetzal Guatemalteco"
+        ]
+      },
+      {
+        "pregunta": "En que continente se encuentra la mayor parte del Desierto del Sahara?",
+        "respuesta_correcta": "Africa",
+        "respuestas_incorrectas": [
+          "Asia",
+          "Australia",
+          "Sudamerica"
+        ]
+      },
+      {
+        "pregunta": "Cual es el nombre del celebre detective de ficcion creado por Sir Arthur Conan Doyle, conocido por su logica deductiva?",
+        "respuesta_correcta": "Sherlock Holmes",
+        "respuestas_incorrectas": [
+          "Hercule Poirot",
+          "Philip Marlowe",
+          "Sam Spade"
+        ]
+      },
+      {
+        "pregunta": "Cual es el punto de congelacion del agua en la escala Celsius?",
+        "respuesta_correcta": "0 C",
+        "respuestas_incorrectas": [
+          "100 C",
+          "32 C (es en Fahrenheit)",
+          "-10 C"
+        ]
+      }
+    ],
+    "dificil": [
+      {
+        "pregunta": "Cual es la capital de Canada?",
+        "respuesta_correcta": "Ottawa",
+        "respuestas_incorrectas": [
+          "Toronto",
+          "Montreal",
+          "Vancouver"
+        ]
+      },
+      {
+        "pregunta": "Que filosofo aleman del siglo XIX escribio la influyente obra Asi hablo Zaratustra?",
+        "respuesta_correcta": "Friedrich Nietzsche",
+        "respuestas_incorrectas": [
+          "Immanuel Kant",
+          "Arthur Schopenhauer",
+          "Georg Wilhelm Friedrich Hegel"
+        ]
+      },
+      {
+        "pregunta": "En que ciudad espanola se encuentra el famoso Museo Nacional del Prado?",
+        "respuesta_correcta": "Madrid",
+        "respuestas_incorrectas": [
+          "Barcelona",
+          "Sevilla",
+          "Valencia"
+        ]
+      },
+      {
+        "pregunta": "Que estrecho separa el continente asiatico (Rusia) del continente americano (Alaska, EE. UU.)?",
+        "respuesta_correcta": "Estrecho de Bering",
+        "respuestas_incorrectas": [
+          "Estrecho de Gibraltar",
+          "Estrecho de Magallanes",
+          "Canal de la Mancha"
+        ]
+      },
+      {
+        "pregunta": "La frase latina Carpe Diem, popularizada por el poeta Horacio, significa:",
+        "respuesta_correcta": "Aprovecha el dia (o Vive el momento)",
+        "respuestas_incorrectas": [
+          "El conocimiento es poder",
+          "Pienso, luego existo",
+          "El amor todo lo vence"
+        ]
+      },
+      {
+        "pregunta": "Que compositor ruso es famoso por ballets como El lago de los cisnes, La bella durmiente y El cascanueces?",
+        "respuesta_correcta": "Piotr Ilich Chaikovski (Tchaikovsky)",
+        "respuestas_incorrectas": [
+          "Igor Stravinski",
+          "Serguei Prokofiev",
+          "Dmitri Shostakovich"
+        ]
+      },
+      {
+        "pregunta": "Como se conoce al grupo de escritores estadounidenses expatriados en Paris durante los anos 20, como Ernest Hemingway y F. Scott Fitzgerald?",
+        "respuesta_correcta": "La Generacion Perdida",
+        "respuestas_incorrectas": [
+          "La Generacion Beat",
+          "Los Trascendentalistas",
+          "La Escuela de Nueva York"
+        ]
+      },
+      {
+        "pregunta": "Que arquitecto canadiense-estadounidense diseno el vanguardista Museo Guggenheim de Bilbao, Espana?",
+        "respuesta_correcta": "Frank Gehry",
+        "respuestas_incorrectas": [
+          "Norman Foster",
+          "Santiago Calatrava",
+          "Zaha Hadid"
+        ]
+      },
+      {
+        "pregunta": "Cual es el nombre del arte tradicional japones de doblar papel para crear figuras?",
+        "respuesta_correcta": "Origami",
+        "respuestas_incorrectas": [
+          "Ikebana (arreglo floral)",
+          "Kirigami (papel cortado)",
+          "Sumi-e (pintura con tinta)"
+        ]
+      },
+      {
+        "pregunta": "Que corriente filosofica, asociada a pensadores como Jean-Paul Sartre y Albert Camus, enfatiza la libertad individual, la responsabilidad y la subjetividad, postulando que la existencia precede a la esencia?",
+        "respuesta_correcta": "Existencialismo",
+        "respuestas_incorrectas": [
+          "Racionalismo",
+          "Empirismo",
+          "Estoicismo"
+        ]
+      },
+      {
+        "pregunta": "Considerado una de las Siete Maravillas del Mundo Antiguo, que estructura monumental ubicada en Alejandria, Egipto, servia como guia para los navegantes?",
+        "respuesta_correcta": "El Faro de Alejandria",
+        "respuestas_incorrectas": [
+          "La Gran Piramide de Giza",
+          "Los Jardines Colgantes de Babilonia",
+          "El Coloso de Rodas"
+        ]
+      },
+      {
+        "pregunta": "El ruso, el bulgaro y el serbio son lenguas que utilizan predominantemente que sistema de escritura?",
+        "respuesta_correcta": "Alfabeto cirilico",
+        "respuestas_incorrectas": [
+          "Alfabeto latino",
+          "Alfabeto griego",
+          "Alfabeto arabe"
+        ]
+      },
+      {
+        "pregunta": "Que director de cine estadounidense es conocido por peliculas iconicas como Pulp Fiction, Reservoir Dogs y Kill Bill?",
+        "respuesta_correcta": "Quentin Tarantino",
+        "respuestas_incorrectas": [
+          "Martin Scorsese",
+          "Steven Spielberg",
+          "Christopher Nolan"
+        ]
+      },
+      {
+        "pregunta": "Que evento historico crucial del ano 1066 narra detalladamente el famoso Tapiz de Bayeux?",
+        "respuesta_correcta": "La conquista normanda de Inglaterra (incluyendo la Batalla de Hastings)",
+        "respuestas_incorrectas": [
+          "Las Cruzadas",
+          "La Guerra de los Cien Anos",
+          "La firma de la Carta Magna"
+        ]
+      },
+      {
+        "pregunta": "Cual es la moneda oficial de Suiza?",
+        "respuesta_correcta": "Franco suizo (CHF)",
+        "respuestas_incorrectas": [
+          "Euro",
+          "Corona sueca (SEK)",
+          "Libra esterlina"
+        ]
+      },
+      {
+        "pregunta": "Cual es la capital de Nueva Zelanda?",
+        "respuesta_correcta": "Wellington",
+        "respuestas_incorrectas": [
+          "Auckland",
+          "Christchurch",
+          "Canberra"
+        ]
+      },
+      {
+        "pregunta": "Quien compuso la opera 'La Flauta Magica' ('Die Zauberflote')?",
+        "respuesta_correcta": "Wolfgang Amadeus Mozart",
+        "respuestas_incorrectas": [
+          "Ludwig van Beethoven",
+          "Johann Sebastian Bach",
+          "Richard Wagner"
+        ]
+      },
+      {
+        "pregunta": "En que pais actual se encuentra la antigua ciudad de Petra, famosa por sus construcciones talladas en la roca?",
+        "respuesta_correcta": "Jordania",
+        "respuestas_incorrectas": [
+          "Egipto",
+          "Siria",
+          "Israel"
+        ]
+      },
+      {
+        "pregunta": "En que categoria obtuvo el Premio Nobel el escritor colombiano Gabriel Garcia Marquez en 1982?",
+        "respuesta_correcta": "Literatura",
+        "respuestas_incorrectas": [
+          "Paz",
+          "Economia",
+          "Medicina"
+        ]
+      },
+      {
+        "pregunta": "Cual es el termino que se refiere al estudio del origen y la evolucion historica de las palabras?",
+        "respuesta_correcta": "Etimologia",
+        "respuestas_incorrectas": [
+          "Semantica",
+          "Fonologia",
+          "Morfologia"
+        ]
+      },
+      {
+        "pregunta": "Que gran novelista ruso es el autor de 'Guerra y Paz' y 'Ana Karenina'?",
+        "respuesta_correcta": "Leon Tolstoi (Leo Tolstoy)",
+        "respuestas_incorrectas": [
+          "Fiodor Dostoievski",
+          "Anton Chejov",
+          "Ivan Turgueniev"
+        ]
+      },
+      {
+        "pregunta": "Cual es el nombre del movimiento artistico de vanguardia, surgido en Italia a principios del siglo XX, que glorificaba la maquina, la velocidad y la tecnologia?",
+        "respuesta_correcta": "Futurismo",
+        "respuestas_incorrectas": [
+          "Cubismo",
+          "Surrealismo",
+          "Dadaismo"
+        ]
+      },
+      {
+        "pregunta": "Que aclamado director de cine japones dirigio peliculas como 'Los Siete Samurais', 'Rashomon' y 'Kagemusha'?",
+        "respuesta_correcta": "Akira Kurosawa",
+        "respuestas_incorrectas": [
+          "Yasujiro Ozu",
+          "Hayao Miyazaki",
+          "Takeshi Kitano"
+        ]
+      },
+      {
+        "pregunta": "Cual es la senal internacional de socorro mas utilizada en radiotelegrafia, representada por ···−−−··· en codigo Morse?",
+        "respuesta_correcta": "SOS",
+        "respuestas_incorrectas": [
+          "HELP",
+          "MAYDAY (radiotelefonia)",
+          "PAN-PAN"
+        ]
+      },
+      {
+        "pregunta": "Como se denomina el cambio aparente en la frecuencia de una onda (luz, sonido) percibido por un observador debido al movimiento relativo entre la fuente y el observador?",
+        "respuesta_correcta": "Efecto Doppler",
+        "respuestas_incorrectas": [
+          "Efecto Compton",
+          "Efecto Coriolis",
+          "Efecto Venturi"
+        ]
+      },
+      {
+        "pregunta": "Quien ostenta el record del reinado mas largo en la historia de la monarquia britanica?",
+        "respuesta_correcta": "Reina Isabel II",
+        "respuestas_incorrectas": [
+          "Reina Victoria",
+          "Rey Jorge III",
+          "Reina Isabel I"
+        ]
+      },
+      {
+        "pregunta": "Que civilizacion antigua es reconocida por haber desarrollado independientemente el concepto del cero como un marcador de posicion en su sistema numerico?",
+        "respuesta_correcta": "Matematicos indios (sistema Hindu-Arabigo)",
+        "respuestas_incorrectas": [
+          "Egipcios",
+          "Romanos",
+          "Griegos"
+        ]
+      },
+      {
+        "pregunta": "Que cuerpo de agua separa la isla de Gran Bretana de la Europa continental?",
+        "respuesta_correcta": "El Canal de la Mancha",
+        "respuestas_incorrectas": [
+          "El Mar del Norte",
+          "El Mar Mediterraneo",
+          "El Estrecho de Gibraltar"
+        ]
+      },
+      {
+        "pregunta": "Quien escribio la influyente obra feminista 'El Segundo Sexo' ('Le Deuxieme Sexe')?",
+        "respuesta_correcta": "Simone de Beauvoir",
+        "respuestas_incorrectas": [
+          "Virginia Woolf",
+          "Betty Friedan",
+          "Mary Wollstonecraft"
+        ]
+      },
+      {
+        "pregunta": "Para estimar la intensidad de que fenomeno natural se utiliza principalmente la escala de Beaufort?",
+        "respuesta_correcta": "La velocidad del viento",
+        "respuestas_incorrectas": [
+          "La magnitud de los terremotos (Richter/MMS)",
+          "La intensidad de los huracanes (Saffir-Simpson)",
+          "La dureza de los minerales (Mohs)"
+        ]
+      }
+    ]
+  }
+}
