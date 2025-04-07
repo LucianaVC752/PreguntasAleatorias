@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace JuegoQuiz.Clases
 {
-    public class Pregunta
+    public abstract class Pregunta
     {
         [JsonPropertyName("pregunta")]
         public string PreguntaT { get; set; }
@@ -23,14 +23,17 @@ namespace JuegoQuiz.Clases
         [JsonPropertyName("categoria")]
         public Category Categoria { get; set; }
 
+        [JsonIgnore]
+        public int Cantidad { get; set; } = 15;
 
-        //public Pregunta(string dificultad, string pregunta, string respuesta, IList<string> respuestasIncorrectas)
-        //{
-        //    Dificultad = dificultad;
-        //    PreguntaT = pregunta;
-        //    RespuestaCorrecta = respuesta;
-        //    RespuestasIncorrectas = respuestasIncorrectas;
-        //}
+
+        public Pregunta(string dificultad)
+        {
+          Dificultad = dificultad;
+          Categoria = new Category(dificultad);
+        }
+
+        public abstract List<Pregunta>  GetPreguntas();
 
     }
 }

@@ -15,7 +15,7 @@ namespace JuegoQuiz.Recursos
         // acá estoy diciendo la direcci+on que se va a guardar en la variable filePath
         private string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Preguntas", "CulturaGeneral.json"); // Ruta del archivo de trabajadores
 
-        public IList<Pregunta> ObtenerPreguntasCulturaGeneral(string dificultad)
+        public IList<Pregunta> ObtenerPreguntasCulturaGeneral()
         {//Verifica si el archivo existe
             try
             {

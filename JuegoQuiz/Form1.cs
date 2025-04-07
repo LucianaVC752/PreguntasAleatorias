@@ -21,19 +21,12 @@ namespace JuegoQuiz
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
-            {
-                string rutaEntrada = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Preguntas", "CulturaGeneral.json");
-                string rutaSalida = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Preguntas", "CulturaGeneralTransformada.json");
+            
+        }
 
-                TransformadorJson.ConvertirJson(rutaEntrada, rutaSalida);
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
-                MessageBox.Show("Transformación exitosa 🎉\nArchivo guardado como CienciaTransformada.json", "Éxito");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Ocurrió un error: {ex.Message}", "Error");
-            }
         }
     }
 }

@@ -16,7 +16,7 @@ namespace JuegoQuiz.Clases
 
         public int Puntaje { get; set; }
 
-        private Nivel(Category categoria, IList<Pregunta> preguntas, int puntaje = 0) 
+        public Nivel(Category categoria, IList<Pregunta> preguntas, int puntaje = 0) 
         {
             Categoria = categoria;
             Preguntas = preguntas;
