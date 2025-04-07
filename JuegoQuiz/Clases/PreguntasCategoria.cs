@@ -21,13 +21,19 @@ namespace JuegoQuiz.Clases
     }
     public class PreguntasCiencia : Pregunta
     {
+        public PreguntasCiencia() : base("") { }
         public PreguntasCiencia(string dificultad) : base(dificultad)
         { }
 
         public override List<Pregunta> GetPreguntas()
         {
             Ciencia ciencia = new Ciencia();
-            return ciencia.ObtenerPreguntasCiencia().OrderBy(_ => Guid.NewGuid()).Take(Cantidad).ToList();
+            return ciencia.ObtenerPreguntasCiencia()
+              .Select(p => (Pregunta)p)
+              .OrderBy(_ => Guid.NewGuid())
+              .Take(Cantidad)
+              .ToList();
+
         }
     }
 

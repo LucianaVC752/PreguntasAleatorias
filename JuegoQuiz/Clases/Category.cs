@@ -11,8 +11,14 @@ namespace JuegoQuiz.Clases
 {
     public class Category
     {
+        [JsonPropertyName("name")]
+        public string Name { get; set; }
+        [JsonPropertyName("tiempo")]
         public int Tiempo { get; set; }
+        [JsonPropertyName("valor_pregunta")]
         public int ValorPregunta { get; set; }
+
+        public Category() { }
         public Category(string dificultad)
         {
             try

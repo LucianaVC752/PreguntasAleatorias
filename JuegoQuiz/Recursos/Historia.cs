@@ -34,7 +34,7 @@ namespace JuegoQuiz.Preguntas
                                       .SelectMany(categoria => categoria.Value
                                       .SelectMany(nivel => nivel.Value.Select(p => {
                                           p.Dificultad = nivel.Key;
-                                          p.Categoria = new Category(nivel.Key);
+                                          p.Categoria = new Category(categoria.Key);
                                           return p;
                                       }))
                             )

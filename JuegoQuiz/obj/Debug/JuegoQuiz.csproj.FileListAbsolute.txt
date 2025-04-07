@@ -32,3 +32,4 @@ C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\o
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\bin\Debug\Preguntas\Ciencia.json
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\bin\Debug\Preguntas\CulturaGeneral.json
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\bin\Debug\Preguntas\Historia.json
+C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\obj\Debug\JuegoQuiz.FormResultadoFinal.resources
