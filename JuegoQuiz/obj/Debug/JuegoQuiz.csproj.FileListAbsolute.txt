@@ -33,3 +33,38 @@ C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\b
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\bin\Debug\Preguntas\CulturaGeneral.json
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\bin\Debug\Preguntas\Historia.json
 C:\Users\hp\OneDrive - pascualbravo.edu.co\Herramientas II\JuegoQuiz\JuegoQuiz\obj\Debug\JuegoQuiz.FormResultadoFinal.resources
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\Preguntas\Ciencia.json
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\Preguntas\CulturaGeneral.json
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\Preguntas\Historia.json
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\JuegoQuiz.exe.config
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\JuegoQuiz.exe
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\JuegoQuiz.pdb
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Buffers.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.IO.Pipelines.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Memory.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Text.Json.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.ValueTuple.dll
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Buffers.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.IO.Pipelines.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Memory.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Text.Json.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\bin\Debug\System.ValueTuple.xml
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.csproj.AssemblyReference.cache
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.Form1.resources
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.FormResultadoFinal.resources
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.Properties.Resources.resources
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.csproj.GenerateResource.cache
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.csproj.Up2Date
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.exe
+C:\Users\isaiv\Desktop\GIT\PreguntasAleatorias\JuegoQuiz\obj\Debug\JuegoQuiz.pdb

@@ -79,19 +79,18 @@
             this.lblPregunta.AutoSize = true;
             this.lblPregunta.Location = new System.Drawing.Point(60, 101);
             this.lblPregunta.Name = "lblPregunta";
-            this.lblPregunta.Size = new System.Drawing.Size(35, 13);
+            this.lblPregunta.Size = new System.Drawing.Size(53, 13);
             this.lblPregunta.TabIndex = 3;
-            this.lblPregunta.Text = "label1";
+            this.lblPregunta.Text = "Pregunta:";
             // 
             // rdbRespuesta1
             // 
             this.rdbRespuesta1.AutoSize = true;
             this.rdbRespuesta1.Location = new System.Drawing.Point(63, 148);
             this.rdbRespuesta1.Name = "rdbRespuesta1";
-            this.rdbRespuesta1.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta1.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta1.TabIndex = 4;
             this.rdbRespuesta1.TabStop = true;
-            this.rdbRespuesta1.Text = "radioButton1";
             this.rdbRespuesta1.UseVisualStyleBackColor = true;
             this.rdbRespuesta1.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
@@ -100,10 +99,9 @@
             this.rdbRespuesta2.AutoSize = true;
             this.rdbRespuesta2.Location = new System.Drawing.Point(368, 148);
             this.rdbRespuesta2.Name = "rdbRespuesta2";
-            this.rdbRespuesta2.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta2.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta2.TabIndex = 5;
             this.rdbRespuesta2.TabStop = true;
-            this.rdbRespuesta2.Text = "radioButton2";
             this.rdbRespuesta2.UseVisualStyleBackColor = true;
             this.rdbRespuesta2.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
@@ -112,10 +110,9 @@
             this.rdbRespuesta3.AutoSize = true;
             this.rdbRespuesta3.Location = new System.Drawing.Point(63, 195);
             this.rdbRespuesta3.Name = "rdbRespuesta3";
-            this.rdbRespuesta3.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta3.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta3.TabIndex = 6;
             this.rdbRespuesta3.TabStop = true;
-            this.rdbRespuesta3.Text = "radioButton3";
             this.rdbRespuesta3.UseVisualStyleBackColor = true;
             this.rdbRespuesta3.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
@@ -124,10 +121,9 @@
             this.rdbRespuesta4.AutoSize = true;
             this.rdbRespuesta4.Location = new System.Drawing.Point(368, 195);
             this.rdbRespuesta4.Name = "rdbRespuesta4";
-            this.rdbRespuesta4.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta4.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta4.TabIndex = 7;
             this.rdbRespuesta4.TabStop = true;
-            this.rdbRespuesta4.Text = "radioButton4";
             this.rdbRespuesta4.UseVisualStyleBackColor = true;
             this.rdbRespuesta4.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
@@ -136,9 +132,9 @@
             this.lblTiempo.AutoSize = true;
             this.lblTiempo.Location = new System.Drawing.Point(60, 338);
             this.lblTiempo.Name = "lblTiempo";
-            this.lblTiempo.Size = new System.Drawing.Size(35, 13);
+            this.lblTiempo.Size = new System.Drawing.Size(42, 13);
             this.lblTiempo.TabIndex = 9;
-            this.lblTiempo.Text = "label2";
+            this.lblTiempo.Text = "Tiempo";
             // 
             // btnSiguiente
             // 

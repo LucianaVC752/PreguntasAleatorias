@@ -1,15 +1,8 @@
 ﻿using JuegoQuiz.Clases;
-using JuegoQuiz.Factory;
-using JuegoQuiz.Recursos;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace JuegoQuiz
@@ -17,7 +10,7 @@ namespace JuegoQuiz
     public partial class Form1 : Form
     {
 
-        private Nivel nivelActual;
+        //private Nivel nivelActual;
         private List<Pregunta> preguntasActuales;
         private int preguntaActualIndex = 0;
         private int puntaje = 0;
