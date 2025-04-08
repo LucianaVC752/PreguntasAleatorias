@@ -71,7 +71,6 @@
             this.Controls.Add(this.lblPuntaje);
             this.Name = "FormResultadoFinal";
             this.Text = "FormResultadoFinal";
-            this.Load += new System.EventHandler(this.FormResultadoFinal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.button1 = new System.Windows.Forms.Button();
+            this.BtnIniciar = new System.Windows.Forms.Button();
             this.cmbCategoria = new System.Windows.Forms.ComboBox();
             this.cmbDificultad = new System.Windows.Forms.ComboBox();
             this.timerPregunta = new System.Windows.Forms.Timer(this.components);
@@ -41,17 +41,18 @@
             this.lblTiempo = new System.Windows.Forms.Label();
             this.btnSiguiente = new System.Windows.Forms.Button();
             this.lblPuntaje = new System.Windows.Forms.Label();
+            this.lblPreguntasRestantes = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // BtnIniciar
             // 
-            this.button1.Location = new System.Drawing.Point(512, 36);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Iniciar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.BtnIniciar.Location = new System.Drawing.Point(512, 36);
+            this.BtnIniciar.Name = "BtnIniciar";
+            this.BtnIniciar.Size = new System.Drawing.Size(75, 23);
+            this.BtnIniciar.TabIndex = 0;
+            this.BtnIniciar.Text = "Iniciar";
+            this.BtnIniciar.UseVisualStyleBackColor = true;
+            this.BtnIniciar.Click += new System.EventHandler(this.BtnIniciar_Click);
             // 
             // cmbCategoria
             // 
@@ -60,7 +61,6 @@
             this.cmbCategoria.Name = "cmbCategoria";
             this.cmbCategoria.Size = new System.Drawing.Size(121, 21);
             this.cmbCategoria.TabIndex = 1;
-            this.cmbCategoria.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // cmbDificultad
             // 
@@ -79,19 +79,18 @@
             this.lblPregunta.AutoSize = true;
             this.lblPregunta.Location = new System.Drawing.Point(60, 101);
             this.lblPregunta.Name = "lblPregunta";
-            this.lblPregunta.Size = new System.Drawing.Size(35, 13);
+            this.lblPregunta.Size = new System.Drawing.Size(53, 13);
             this.lblPregunta.TabIndex = 3;
-            this.lblPregunta.Text = "label1";
+            this.lblPregunta.Text = "Pregunta:";
             // 
             // rdbRespuesta1
             // 
             this.rdbRespuesta1.AutoSize = true;
             this.rdbRespuesta1.Location = new System.Drawing.Point(63, 148);
             this.rdbRespuesta1.Name = "rdbRespuesta1";
-            this.rdbRespuesta1.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta1.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta1.TabIndex = 4;
             this.rdbRespuesta1.TabStop = true;
-            this.rdbRespuesta1.Text = "radioButton1";
             this.rdbRespuesta1.UseVisualStyleBackColor = true;
             this.rdbRespuesta1.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
@@ -100,10 +99,9 @@
             this.rdbRespuesta2.AutoSize = true;
             this.rdbRespuesta2.Location = new System.Drawing.Point(368, 148);
             this.rdbRespuesta2.Name = "rdbRespuesta2";
-            this.rdbRespuesta2.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta2.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta2.TabIndex = 5;
             this.rdbRespuesta2.TabStop = true;
-            this.rdbRespuesta2.Text = "radioButton2";
             this.rdbRespuesta2.UseVisualStyleBackColor = true;
             this.rdbRespuesta2.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
@@ -112,10 +110,9 @@
             this.rdbRespuesta3.AutoSize = true;
             this.rdbRespuesta3.Location = new System.Drawing.Point(63, 195);
             this.rdbRespuesta3.Name = "rdbRespuesta3";
-            this.rdbRespuesta3.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta3.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta3.TabIndex = 6;
             this.rdbRespuesta3.TabStop = true;
-            this.rdbRespuesta3.Text = "radioButton3";
             this.rdbRespuesta3.UseVisualStyleBackColor = true;
             this.rdbRespuesta3.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
@@ -124,21 +121,21 @@
             this.rdbRespuesta4.AutoSize = true;
             this.rdbRespuesta4.Location = new System.Drawing.Point(368, 195);
             this.rdbRespuesta4.Name = "rdbRespuesta4";
-            this.rdbRespuesta4.Size = new System.Drawing.Size(85, 17);
+            this.rdbRespuesta4.Size = new System.Drawing.Size(14, 13);
             this.rdbRespuesta4.TabIndex = 7;
             this.rdbRespuesta4.TabStop = true;
-            this.rdbRespuesta4.Text = "radioButton4";
             this.rdbRespuesta4.UseVisualStyleBackColor = true;
             this.rdbRespuesta4.Click += new System.EventHandler(this.rdbRespuesta1_Click);
             // 
             // lblTiempo
             // 
             this.lblTiempo.AutoSize = true;
+            this.lblTiempo.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
             this.lblTiempo.Location = new System.Drawing.Point(60, 338);
             this.lblTiempo.Name = "lblTiempo";
-            this.lblTiempo.Size = new System.Drawing.Size(35, 13);
+            this.lblTiempo.Size = new System.Drawing.Size(83, 25);
             this.lblTiempo.TabIndex = 9;
-            this.lblTiempo.Text = "label2";
+            this.lblTiempo.Text = "Tiempo";
             // 
             // btnSiguiente
             // 
@@ -159,11 +156,22 @@
             this.lblPuntaje.Size = new System.Drawing.Size(0, 25);
             this.lblPuntaje.TabIndex = 11;
             // 
+            // lblPreguntasRestantes
+            // 
+            this.lblPreguntasRestantes.AutoSize = true;
+            this.lblPreguntasRestantes.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
+            this.lblPreguntasRestantes.Location = new System.Drawing.Point(60, 381);
+            this.lblPreguntasRestantes.Name = "lblPreguntasRestantes";
+            this.lblPreguntasRestantes.Size = new System.Drawing.Size(213, 25);
+            this.lblPreguntasRestantes.TabIndex = 12;
+            this.lblPreguntasRestantes.Text = "Preguntas Restantes";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(927, 450);
+            this.Controls.Add(this.lblPreguntasRestantes);
             this.Controls.Add(this.lblPuntaje);
             this.Controls.Add(this.btnSiguiente);
             this.Controls.Add(this.lblTiempo);
@@ -174,7 +182,7 @@
             this.Controls.Add(this.lblPregunta);
             this.Controls.Add(this.cmbDificultad);
             this.Controls.Add(this.cmbCategoria);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.BtnIniciar);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -185,7 +193,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button BtnIniciar;
         private System.Windows.Forms.ComboBox cmbCategoria;
         private System.Windows.Forms.ComboBox cmbDificultad;
         private System.Windows.Forms.Timer timerPregunta;
@@ -197,6 +205,7 @@
         private System.Windows.Forms.Label lblTiempo;
         private System.Windows.Forms.Button btnSiguiente;
         private System.Windows.Forms.Label lblPuntaje;
+        private System.Windows.Forms.Label lblPreguntasRestantes;
     }
 }
 
