@@ -54,16 +54,10 @@ namespace JuegoQuiz.Factory
                     return null;
                 }
 
-                //foreach (var pregunta in jsonWrapper.Preguntas)
-                //{
-                //    MessageBox.Show("act " +
-                //        JsonSerializer.Serialize(pregunta)
-                //    );
-                //}
-
                 var preguntasFiltradas = jsonWrapper.Preguntas
                     .Where(p => string.Equals(p.Dificultad, dificultadSeleccionada, StringComparison.OrdinalIgnoreCase) &&
                                 string.Equals(p.Categoria, categoriaSeleccionada, StringComparison.OrdinalIgnoreCase))
+                    .OrderBy(_ => Guid.NewGuid())
                     .ToList();
 
                 if (preguntasFiltradas.Count == 0)
