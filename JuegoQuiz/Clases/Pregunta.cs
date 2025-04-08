@@ -1,5 +1,4 @@
-﻿using JuegoQuiz.Enums;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
@@ -10,9 +9,9 @@ namespace JuegoQuiz.Clases
         private string _enunciado;
         private string _respuestaCorrecta;
         private List<string> _opciones;
-        private Dificultad _dificultad;
-        private Categoria _categoria;
-        private Puntaje _puntaje;
+        private string _dificultad;
+        private string _categoria;
+        private int _puntaje;
 
         [JsonPropertyName("pregunta")]
         public string Enunciado
@@ -41,24 +40,28 @@ namespace JuegoQuiz.Clases
                 : throw new ArgumentException("Debe haber al menos tres opciones.");
         }
 
-        [JsonIgnore] // se carga desde la factory, no desde el JSON
-        public Dificultad Dificultad
+        [JsonPropertyName("dificultad")]
+        public string Dificultad
         {
             get => _dificultad;
-            set => _dificultad = value;
+            set => _dificultad = !string.IsNullOrWhiteSpace(value)
+                ? value
+                : throw new ArgumentException("La dificultad no puede estar vacía.");
         }
 
-        [JsonIgnore]
-        public Categoria Categoria
+        [JsonPropertyName("categoria")]
+        public string Categoria
         {
             get => _categoria;
-            set => _categoria = value;
+            set => _categoria = !string.IsNullOrWhiteSpace(value)
+                ? value
+                : throw new ArgumentException("La categoria no puede estar vacía.");
         }
 
         [JsonIgnore]
-        public Puntaje Puntaje => _puntaje;
+        public int Puntaje => _puntaje;
 
-        public Pregunta(string enunciado, string respuestaCorrecta, List<string> opciones, Dificultad dificultad, Categoria categoria, Puntaje puntaje)
+        public Pregunta(string enunciado, string respuestaCorrecta, List<string> opciones, string dificultad, string categoria, int puntaje)
         {
             Enunciado = enunciado;
             RespuestaCorrecta = respuestaCorrecta;

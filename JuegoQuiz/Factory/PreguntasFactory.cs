@@ -1,10 +1,11 @@
 ﻿using JuegoQuiz.Clases;
-using JuegoQuiz.Enums;
+using JuegoQuiz.Constantes;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
+using System.Windows.Forms;
 
 namespace JuegoQuiz.Factory
 {
@@ -12,83 +13,101 @@ namespace JuegoQuiz.Factory
     {
         private class PreguntaJsonWrapper
         {
-            public List<Pregunta> preguntas { get; set; }
+            public List<Pregunta> Preguntas { get; set; }
         }
 
-        public static Pregunta CrearPregunta(Categoria categoriaSeleccionada, Dificultad dificultadSeleccionada)
+        public static Pregunta CrearPregunta(string categoriaSeleccionada, string dificultadSeleccionada)
         {
-            string rutaArchivo = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Preguntas", "preguntas.json");
-
-            if (!File.Exists(rutaArchivo))
-                throw new FileNotFoundException("No se encontró el archivo de preguntas.", rutaArchivo);
-
-            string json = File.ReadAllText(rutaArchivo);
-            var opciones = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
-            var jsonWrapper = JsonSerializer.Deserialize<PreguntaJsonWrapper>(json, opciones);
-
-            if (jsonWrapper?.preguntas == null || jsonWrapper.preguntas.Count == 0)
-                throw new InvalidOperationException("No se pudieron cargar preguntas desde el archivo.");
-
-            // Filtrar por dificultad y categoría, usando cadenas
-            var preguntasFiltradas = jsonWrapper.preguntas
-                .Where(p => string.Equals(p.Dificultad.ToString(), dificultadSeleccionada.ToString(), StringComparison.OrdinalIgnoreCase) &&
-                            string.Equals(p.Categoria.ToString(), categoriaSeleccionada.ToString(), StringComparison.OrdinalIgnoreCase))
-                .ToList();
-
-            // Si no se encuentran preguntas con los enums (porque vienen en texto del JSON), intentar filtrar por el texto del JSON
-            if (preguntasFiltradas.Count == 0)
+            try
             {
-                preguntasFiltradas = jsonWrapper.preguntas
-                    .Where(p => string.Equals(GetCategoriaFromJson(p), categoriaSeleccionada.ToString(), StringComparison.OrdinalIgnoreCase) &&
-                                string.Equals(GetDificultadFromJson(p), dificultadSeleccionada.ToString(), StringComparison.OrdinalIgnoreCase))
+                string rutaArchivo = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Preguntas", "preguntas.json");
+
+                if (!File.Exists(rutaArchivo))
+                    throw new FileNotFoundException("No se encontró el archivo de preguntas.", rutaArchivo);
+
+                string json;
+                try
+                {
+                    json = File.ReadAllText(rutaArchivo);
+                }
+                catch (Exception exLectura)
+                {
+                    MessageBox.Show("Error al leer el archivo JSON:\n" + exLectura.Message, "Error de lectura", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return null;
+                }
+
+                PreguntaJsonWrapper jsonWrapper;
+                try
+                {
+                    var opciones = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
+                    jsonWrapper = JsonSerializer.Deserialize<PreguntaJsonWrapper>(json, opciones);
+                }
+                catch (Exception exDeserializacion)
+                {
+                    MessageBox.Show("Error al deserializar el archivo JSON:\n" + exDeserializacion.Message, "Error de deserialización", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return null;
+                }
+
+                if (jsonWrapper?.Preguntas == null || jsonWrapper.Preguntas.Count == 0)
+                {
+                    MessageBox.Show("No se encontraron preguntas en el archivo JSON.", "Archivo vacío", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return null;
+                }
+
+                //foreach (var pregunta in jsonWrapper.Preguntas)
+                //{
+                //    MessageBox.Show("act " +
+                //        JsonSerializer.Serialize(pregunta)
+                //    );
+                //}
+
+                var preguntasFiltradas = jsonWrapper.Preguntas
+                    .Where(p => string.Equals(p.Dificultad, dificultadSeleccionada, StringComparison.OrdinalIgnoreCase) &&
+                                string.Equals(p.Categoria, categoriaSeleccionada, StringComparison.OrdinalIgnoreCase))
                     .ToList();
+
+                if (preguntasFiltradas.Count == 0)
+                {
+                    MessageBox.Show("No se encontraron preguntas con la categoría y dificultad seleccionadas.", "Sin resultados", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    return null;
+                }
+
+                var random = new Random();
+                var preguntaSeleccionada = preguntasFiltradas[random.Next(preguntasFiltradas.Count)];
+
+                switch (dificultadSeleccionada)
+                {
+                    case EnumDificultad.Facil:
+                        return new PreguntaFacil(
+                            preguntaSeleccionada.Enunciado,
+                            preguntaSeleccionada.RespuestaCorrecta,
+                            preguntaSeleccionada.Opciones,
+                            categoriaSeleccionada
+                        );
+                    case EnumDificultad.Media:
+                        return new PreguntaMedia(
+                            preguntaSeleccionada.Enunciado,
+                            preguntaSeleccionada.RespuestaCorrecta,
+                            preguntaSeleccionada.Opciones,
+                            categoriaSeleccionada
+                        );
+                    case EnumDificultad.Dificil:
+                        return new PreguntaDificil(
+                            preguntaSeleccionada.Enunciado,
+                            preguntaSeleccionada.RespuestaCorrecta,
+                            preguntaSeleccionada.Opciones,
+                            categoriaSeleccionada
+                        );
+                    default:
+                        MessageBox.Show("La dificultad seleccionada no es válida.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return null;
+                }
             }
-
-            if (preguntasFiltradas.Count == 0)
-                throw new InvalidOperationException("No se encontraron preguntas con la categoría y dificultad seleccionadas.");
-
-            var random = new Random();
-            var preguntaSeleccionada = preguntasFiltradas[random.Next(preguntasFiltradas.Count)];
-
-            switch (dificultadSeleccionada)
+            catch (Exception ex)
             {
-                case Dificultad.Facil:
-                    return new PreguntaFacil(
-                        preguntaSeleccionada.Enunciado,
-                        preguntaSeleccionada.RespuestaCorrecta,
-                        preguntaSeleccionada.Opciones,
-                        categoriaSeleccionada
-                    );
-                case Dificultad.Media:
-                    return new PreguntaMedia(
-                        preguntaSeleccionada.Enunciado,
-                        preguntaSeleccionada.RespuestaCorrecta,
-                        preguntaSeleccionada.Opciones,
-                        categoriaSeleccionada
-                    );
-                case Dificultad.Dificil:
-                    return new PreguntaDificil(
-                        preguntaSeleccionada.Enunciado,
-                        preguntaSeleccionada.RespuestaCorrecta,
-                        preguntaSeleccionada.Opciones,
-                        categoriaSeleccionada
-                    );
-                default:
-                    throw new ArgumentOutOfRangeException("dificultadSeleccionada", "Dificultad no válida.");
+                MessageBox.Show("Ocurrió un error inesperado:\n" + ex.Message, "Error general", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return null;
             }
-
-        }
-
-        private static string GetDificultadFromJson(Pregunta pregunta)
-        {
-            return JsonDocument.Parse(JsonSerializer.Serialize(pregunta))
-                .RootElement.GetProperty("dificultad").GetString();
-        }
-
-        private static string GetCategoriaFromJson(Pregunta pregunta)
-        {
-            return JsonDocument.Parse(JsonSerializer.Serialize(pregunta))
-                .RootElement.GetProperty("categoria").GetString();
         }
     }
 }

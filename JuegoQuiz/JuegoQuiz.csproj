@@ -78,12 +78,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\Nivel.cs" />
+    <Compile Include="Clases\Partida.cs" />
     <Compile Include="Clases\Pregunta.cs" />
     <Compile Include="Clases\PreguntaDificil.cs" />
     <Compile Include="Clases\PreguntaMedia.cs" />
     <Compile Include="Clases\PreguntaFacil.cs" />
     <Compile Include="Clases\PreguntasCategoria.cs" />
-    <Compile Include="Enums\Enums.cs" />
+    <Compile Include="Constantes\Constantes.cs" />
     <Compile Include="Factory\FactoryPreguntas.cs" />
     <Compile Include="Factory\PreguntasFactory.cs" />
     <Compile Include="Form1.cs">
@@ -120,15 +121,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="packages.config" />
-    <None Include="Preguntas\Ciencia.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Preguntas\CulturaGeneral.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Preguntas\Historia.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -143,5 +135,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Content Include="Preguntas\preguntas.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

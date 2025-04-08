@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.button1 = new System.Windows.Forms.Button();
+            this.BtnIniciar = new System.Windows.Forms.Button();
             this.cmbCategoria = new System.Windows.Forms.ComboBox();
             this.cmbDificultad = new System.Windows.Forms.ComboBox();
             this.timerPregunta = new System.Windows.Forms.Timer(this.components);
@@ -43,15 +43,15 @@
             this.lblPuntaje = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // BtnIniciar
             // 
-            this.button1.Location = new System.Drawing.Point(512, 36);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Iniciar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.BtnIniciar.Location = new System.Drawing.Point(512, 36);
+            this.BtnIniciar.Name = "BtnIniciar";
+            this.BtnIniciar.Size = new System.Drawing.Size(75, 23);
+            this.BtnIniciar.TabIndex = 0;
+            this.BtnIniciar.Text = "Iniciar";
+            this.BtnIniciar.UseVisualStyleBackColor = true;
+            this.BtnIniciar.Click += new System.EventHandler(this.BtnIniciar_Click);
             // 
             // cmbCategoria
             // 
@@ -60,7 +60,6 @@
             this.cmbCategoria.Name = "cmbCategoria";
             this.cmbCategoria.Size = new System.Drawing.Size(121, 21);
             this.cmbCategoria.TabIndex = 1;
-            this.cmbCategoria.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // cmbDificultad
             // 
@@ -170,7 +169,7 @@
             this.Controls.Add(this.lblPregunta);
             this.Controls.Add(this.cmbDificultad);
             this.Controls.Add(this.cmbCategoria);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.BtnIniciar);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -181,7 +180,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button BtnIniciar;
         private System.Windows.Forms.ComboBox cmbCategoria;
         private System.Windows.Forms.ComboBox cmbDificultad;
         private System.Windows.Forms.Timer timerPregunta;

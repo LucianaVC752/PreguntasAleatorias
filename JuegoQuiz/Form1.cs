@@ -1,6 +1,7 @@
 ﻿using JuegoQuiz.Clases;
+using JuegoQuiz.Constantes;
+using JuegoQuiz.Factory;
 using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Windows.Forms;
@@ -9,24 +10,18 @@ namespace JuegoQuiz
 {
     public partial class Form1 : Form
     {
-
-        //private Nivel nivelActual;
-        private List<Pregunta> preguntasActuales;
-        private int preguntaActualIndex = 0;
-        private int puntaje = 0;
+        private Partida partida;
         private int tiempoRestante;
-        private Pregunta preguntaActual;
+        Pregunta preguntaGenerada;
+
         public Form1()
         {
             InitializeComponent();
             btnSiguiente.Visible = false;
-            timerPregunta.Interval = 1000;
-            timerPregunta.Tick += timerPregunta_Tick;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void BtnIniciar_Click(object sender, EventArgs e)
         {
-            string dificultad, categoria;
             try
             {
                 if (cmbCategoria.SelectedItem == null || cmbDificultad.SelectedItem == null)
@@ -34,16 +29,11 @@ namespace JuegoQuiz
                     MessageBox.Show("Debes seleccionar una categoría y dificultad antes de comenzar.");
                     return;
                 }
-                categoria = cmbCategoria.SelectedItem.ToString();
-                dificultad = cmbDificultad.SelectedItem.ToString();
+                string dificultad = cmbDificultad.SelectedItem.ToString();
+                partida = new Partida(dificultad);
 
-                var preguntaFactory = FactoryPreguntas.CrearPreguntas(dificultad, categoria);
-                preguntasActuales = preguntaFactory.GetPreguntas();
-
-                puntaje = 0;
-                preguntaActualIndex = 0;
-
-                MostrarPregunta();
+                ActualizarPuntajeEnVista();
+                ObtenerSiguientePregunta();
             }
             catch (Exception ex)
             {
@@ -52,19 +42,22 @@ namespace JuegoQuiz
             }
         }
 
-        private void MostrarPregunta() {
-            if (preguntaActualIndex >= preguntasActuales.Count)
+        private void ObtenerSiguientePregunta() {
+            if (partida.ObtenerTotalPreguntas() >= EnumConstantes.MAX_PREGUNTAS)
             {
                 timerPregunta.Stop();
                 MostrarResultadoFinal();
                 return;
             }
 
-            preguntaActual = preguntasActuales[preguntaActualIndex];
+            string categoria = cmbCategoria.SelectedItem.ToString();
+            string dificultad = cmbDificultad.SelectedItem.ToString();
 
-            lblPregunta.Text = preguntaActual.PreguntaT;
-            var respuestas = preguntaActual.RespuestasIncorrectas.ToList();
-            respuestas.Add(preguntaActual.RespuestaCorrecta);
+            preguntaGenerada = PreguntasFactory.CrearPregunta(categoria, dificultad);
+            partida.AgregarPregunta(preguntaGenerada);
+
+            lblPregunta.Text = preguntaGenerada.Enunciado;
+            var respuestas = preguntaGenerada.Opciones.ToList();
             respuestas = respuestas.OrderBy(_ => Guid.NewGuid()).ToList();
 
             rdbRespuesta1.Text = respuestas[0];
@@ -72,32 +65,30 @@ namespace JuegoQuiz
             rdbRespuesta3.Text = respuestas[2];
             rdbRespuesta4.Text = respuestas[3];
 
-            HabilitarBotones(true);
+            HabilitarOpciones(true);
             btnSiguiente.Visible = false;
 
-            tiempoRestante = preguntaActual.Categoria.Tiempo;
+            tiempoRestante = partida.ObtenerTiempoPorPregunta();
             lblTiempo.Text = $"Tiempo: {tiempoRestante}s";
             timerPregunta.Start();
         }
 
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
-            #region
-            cmbCategoria.Items.Add("Historia");
-            cmbCategoria.Items.Add("Ciencia");
-            cmbCategoria.Items.Add("Cultura General");
-            cmbCategoria.SelectedIndex = 0;
+            timerPregunta.Interval = 1000;
+            timerPregunta.Tick -= timerPregunta_Tick;
+            timerPregunta.Tick += timerPregunta_Tick;
 
-            cmbDificultad.Items.Add("facil");
-            cmbDificultad.Items.Add("medio");
-            cmbDificultad.Items.Add("dificil");
-            cmbDificultad.SelectedIndex = 0;
+            #region
+            cmbCategoria.Items.Add(EnumCategoria.Ciencia);
+            cmbCategoria.Items.Add(EnumCategoria.Historia);
+            cmbCategoria.Items.Add(EnumCategoria.CulturaGeneral);
+            cmbCategoria.SelectedIndex = -1;
+
+            cmbDificultad.Items.Add(EnumDificultad.Facil);
+            cmbDificultad.Items.Add(EnumDificultad.Media);
+            cmbDificultad.Items.Add(EnumDificultad.Dificil);
+            cmbDificultad.SelectedIndex = -1;
             #endregion
         }
 
@@ -115,31 +106,30 @@ namespace JuegoQuiz
 
         private void EvaluarRespuesta(string respuestaSeleccionada)
         {
-            bool esCorrecta = respuestaSeleccionada == preguntaActual.RespuestaCorrecta;
+            bool esCorrecta = respuestaSeleccionada == preguntaGenerada.RespuestaCorrecta;
 
             if (esCorrecta)
             {
-                puntaje += preguntaActual.Categoria.ValorPregunta;
+                partida.AcertarPregunta(preguntaGenerada);
                 MessageBox.Show("¡Correcto!");
             }
             else
             {
-                puntaje = Math.Max(0, puntaje - 2);
-                MessageBox.Show($"Incorrecto. La correcta era: {preguntaActual.RespuestaCorrecta}");
+                partida.FallarPregunta();
+                MessageBox.Show($"Incorrecto. La correcta era: {preguntaGenerada.RespuestaCorrecta}");
             }
 
-            lblPuntaje.Text = $"Puntaje: {puntaje}";
+            ActualizarPuntajeEnVista();
             btnSiguiente.Visible = true;
-            HabilitarBotones(false);
+            HabilitarOpciones(false);
         }
 
         private void btnSiguiente_Click(object sender, EventArgs e)
         {
-            preguntaActualIndex++;
-            MostrarPregunta();
+            ObtenerSiguientePregunta();
         }
 
-        private void HabilitarBotones(bool estado)
+        private void HabilitarOpciones(bool estado)
         {
             rdbRespuesta1.Enabled = estado;
             rdbRespuesta2.Enabled = estado;
@@ -147,11 +137,16 @@ namespace JuegoQuiz
             rdbRespuesta4.Enabled = estado;
         }
 
+        private void ActualizarPuntajeEnVista()
+        {
+            lblPuntaje.Text = $"Puntaje: {partida.ObtenerPuntaje()}";
+        }
+
         private void MostrarResultadoFinal()
         {
-            var formFinal = new FormResultadoFinal(puntaje);
+            var formFinal = new FormResultadoFinal(partida.ObtenerPuntaje());
             formFinal.Show();
-            this.Hide();
+            Hide();
         }
 
         private void rdbRespuesta1_Click(object sender, EventArgs e)
