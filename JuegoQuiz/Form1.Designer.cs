@@ -41,6 +41,7 @@
             this.lblTiempo = new System.Windows.Forms.Label();
             this.btnSiguiente = new System.Windows.Forms.Button();
             this.lblPuntaje = new System.Windows.Forms.Label();
+            this.lblPreguntasRestantes = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // BtnIniciar
@@ -129,9 +130,10 @@
             // lblTiempo
             // 
             this.lblTiempo.AutoSize = true;
+            this.lblTiempo.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
             this.lblTiempo.Location = new System.Drawing.Point(60, 338);
             this.lblTiempo.Name = "lblTiempo";
-            this.lblTiempo.Size = new System.Drawing.Size(42, 13);
+            this.lblTiempo.Size = new System.Drawing.Size(83, 25);
             this.lblTiempo.TabIndex = 9;
             this.lblTiempo.Text = "Tiempo";
             // 
@@ -154,11 +156,22 @@
             this.lblPuntaje.Size = new System.Drawing.Size(0, 25);
             this.lblPuntaje.TabIndex = 11;
             // 
+            // lblPreguntasRestantes
+            // 
+            this.lblPreguntasRestantes.AutoSize = true;
+            this.lblPreguntasRestantes.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
+            this.lblPreguntasRestantes.Location = new System.Drawing.Point(60, 381);
+            this.lblPreguntasRestantes.Name = "lblPreguntasRestantes";
+            this.lblPreguntasRestantes.Size = new System.Drawing.Size(213, 25);
+            this.lblPreguntasRestantes.TabIndex = 12;
+            this.lblPreguntasRestantes.Text = "Preguntas Restantes";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(927, 450);
+            this.Controls.Add(this.lblPreguntasRestantes);
             this.Controls.Add(this.lblPuntaje);
             this.Controls.Add(this.btnSiguiente);
             this.Controls.Add(this.lblTiempo);
@@ -192,6 +205,7 @@
         private System.Windows.Forms.Label lblTiempo;
         private System.Windows.Forms.Button btnSiguiente;
         private System.Windows.Forms.Label lblPuntaje;
+        private System.Windows.Forms.Label lblPreguntasRestantes;
     }
 }
 

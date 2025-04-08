@@ -3,35 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\recursos\\ciencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\ciencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\recursos\\culturageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\culturageneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\recursos\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\recursos\\transformadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\recursos\\transformadorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\clases\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\nivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\factory\\factorypreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\factory\\factorypreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\clases\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\constantes\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\constantes\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\clases\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,35 +27,19 @@
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\pregunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\constantes\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\constantes\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\clases\\preguntamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\clases\\preguntamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\preguntamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\clases\\preguntafacil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\clases\\preguntafacil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\preguntafacil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\clases\\preguntadificil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\clases\\preguntadificil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\clases\\preguntadificil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\bin\\debug\\preguntas\\preguntas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\bin\\debug\\preguntas\\preguntas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\preguntas\\preguntas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\preguntas\\preguntas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\preguntas\\preguntas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -75,8 +47,12 @@
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\formresultadofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|c:\\users\\isaiv\\desktop\\git\\wpreguntasaleatorias\\juegoquiz\\factory\\preguntasfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\juegoquiz\\factory\\preguntasfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C5689F-49CA-4732-BE53-639E6094AF73}|JuegoQuiz\\JuegoQuiz.csproj|solutionrelative:juegoquiz\\factory\\preguntasfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\bin\\Debug\\Preguntas\\preguntas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JuegoQuiz\\bin\\Debug\\Preguntas\\preguntas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,115 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TransformadorJSon.cs",
-              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "RelativeToolTip": "JuegoQuiz\\Recursos\\TransformadorJSon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:00:02.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Historia.cs",
-              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\Historia.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\Historia.cs",
-              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\Historia.cs",
-              "RelativeToolTip": "JuegoQuiz\\Recursos\\Historia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:00:01.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CulturaGeneral.cs",
-              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "RelativeToolTip": "JuegoQuiz\\Recursos\\CulturaGeneral.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:00:01.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ciencia.cs",
-              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\Ciencia.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Recursos\\Ciencia.cs",
-              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Recursos\\Ciencia.cs",
-              "RelativeToolTip": "JuegoQuiz\\Recursos\\Ciencia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:00:00.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FactoryPreguntas.cs",
-              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Factory\\FactoryPreguntas.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Factory\\FactoryPreguntas.cs",
-              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Factory\\FactoryPreguntas.cs",
-              "RelativeToolTip": "JuegoQuiz\\Factory\\FactoryPreguntas.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:58:29.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Form1.Designer.cs",
               "RelativeToolTip": "JuegoQuiz\\Form1.Designer.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAnwD4AAAAPAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAnwEkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T09:36:20.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Nivel.cs",
-              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Clases\\Nivel.cs",
-              "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Nivel.cs",
-              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Clases\\Nivel.cs",
-              "RelativeToolTip": "JuegoQuiz\\Clases\\Nivel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:14:14.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Form1.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Form1.cs",
               "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Form1.cs",
               "RelativeToolTip": "JuegoQuiz\\Form1.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAwE8AAAA1AAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwGcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T07:04:26.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Partida.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Clases\\Partida.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Partida.cs",
@@ -202,12 +100,11 @@
               "RelativeToolTip": "JuegoQuiz\\Clases\\Partida.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T09:05:15.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T09:05:15.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "PreguntaFacil.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Clases\\PreguntaFacil.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\PreguntaFacil.cs",
@@ -215,12 +112,11 @@
               "RelativeToolTip": "JuegoQuiz\\Clases\\PreguntaFacil.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:38:57.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T08:38:57.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "PreguntaMedia.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Clases\\PreguntaMedia.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\PreguntaMedia.cs",
@@ -228,12 +124,11 @@
               "RelativeToolTip": "JuegoQuiz\\Clases\\PreguntaMedia.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:30:52.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T08:30:52.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "PreguntaDificil.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Clases\\PreguntaDificil.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\PreguntaDificil.cs",
@@ -241,12 +136,11 @@
               "RelativeToolTip": "JuegoQuiz\\Clases\\PreguntaDificil.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:27:04.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T08:27:04.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "preguntas.json",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\bin\\Debug\\Preguntas\\preguntas.json",
               "RelativeDocumentMoniker": "JuegoQuiz\\bin\\Debug\\Preguntas\\preguntas.json",
@@ -254,12 +148,11 @@
               "RelativeToolTip": "JuegoQuiz\\bin\\Debug\\Preguntas\\preguntas.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T08:01:44.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T08:01:44.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "preguntas.json",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Preguntas\\preguntas.json",
               "RelativeDocumentMoniker": "JuegoQuiz\\Preguntas\\preguntas.json",
@@ -267,12 +160,11 @@
               "RelativeToolTip": "JuegoQuiz\\Preguntas\\preguntas.json",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T07:48:58.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:48:58.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "FormResultadoFinal.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\FormResultadoFinal.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\FormResultadoFinal.cs",
@@ -280,12 +172,11 @@
               "RelativeToolTip": "JuegoQuiz\\FormResultadoFinal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:22:41.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T07:22:41.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "PreguntasFactory.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Factory\\PreguntasFactory.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Factory\\PreguntasFactory.cs",
@@ -293,12 +184,11 @@
               "RelativeToolTip": "JuegoQuiz\\Factory\\PreguntasFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:23:01.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T06:23:01.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Constantes.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Constantes\\Constantes.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Constantes\\Constantes.cs",
@@ -311,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Form1.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Form1.cs",
@@ -323,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Pregunta.cs",
               "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\wPreguntasAleatorias\\JuegoQuiz\\Clases\\Pregunta.cs",
               "RelativeDocumentMoniker": "JuegoQuiz\\Clases\\Pregunta.cs",
@@ -331,8 +221,7 @@
               "RelativeToolTip": "JuegoQuiz\\Clases\\Pregunta.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAhwDkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T03:19:39.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T03:19:39.14Z"
             }
           ]
         }

@@ -33,6 +33,7 @@ namespace JuegoQuiz
                 partida = new Partida(dificultad);
 
                 ActualizarPuntajeEnVista();
+                ActualizarContadorPreguntasRestantesEnVista();
                 ObtenerSiguientePregunta();
             }
             catch (Exception ex)
@@ -56,6 +57,7 @@ namespace JuegoQuiz
             preguntaGenerada = PreguntasFactory.CrearPregunta(categoria, dificultad);
             partida.AgregarPregunta(preguntaGenerada);
 
+            
             lblPregunta.Text = preguntaGenerada.Enunciado;
             var respuestas = preguntaGenerada.Opciones.ToList();
             respuestas = respuestas.OrderBy(_ => Guid.NewGuid()).ToList();
@@ -120,6 +122,7 @@ namespace JuegoQuiz
             }
 
             ActualizarPuntajeEnVista();
+            ActualizarContadorPreguntasRestantesEnVista();
             btnSiguiente.Visible = true;
             HabilitarOpciones(false);
         }
@@ -140,6 +143,11 @@ namespace JuegoQuiz
         private void ActualizarPuntajeEnVista()
         {
             lblPuntaje.Text = $"Puntaje: {partida.ObtenerPuntaje()}";
+        }
+
+        private void ActualizarContadorPreguntasRestantesEnVista()
+        {
+            lblPreguntasRestantes.Text = $"Preguntas Restantes: {EnumConstantes.MAX_PREGUNTAS - partida.ObtenerTotalPreguntas()}";
         }
 
         private void MostrarResultadoFinal()
